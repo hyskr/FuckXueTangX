@@ -1,5 +1,4 @@
 import json
-import os
 
 import pandas as pd
 import requests
@@ -54,7 +53,7 @@ for chapter in chapters:
 
 
 def get_exercise_leaf_type_id(exercise_id):
-    url = f"https://www.xuetangx.com/api/v1/lms/learn/leaf_info/21558295/{exercise_id}/?sign=bjtu07121003092"
+    url = f"https://www.xuetangx.com/api/v1/lms/learn/leaf_info/21558295/{exercise_id}/?sign={sign}"
     payload = {}
     response = requests.request("GET", url, headers=headers, data=payload)
     return (
@@ -85,7 +84,7 @@ def submit_problem_answer(leaf_id, exercise_id, problem_id):
             "classroom_id": 21558295,
             "exercise_id": exercise_id,
             "problem_id": problem_id,
-            "sign": "bjtu07121003092",
+            "sign": sign,
             "answers": {},
             "answer": ["B"],
         }
@@ -102,12 +101,6 @@ def get_problem_answer(question, exercise_id, leaf_id, problem_id):
     else:
         ans = submit_problem_answer(leaf_id, exercise_id, problem_id)
         return ans
-
-
-if os.path.exists("breakpoint_with_run.csv"):
-    df_breakpoint = pd.read_csv("breakpoint_with_run.csv")
-else:
-    df_breakpoint = pd.DataFrame(columns=["leaf_id", "problem_id", "completed"])
 
 
 df_results = pd.DataFrame(
@@ -133,13 +126,6 @@ for name, leaf_id in exercise:
         problem_type = question.get("content", {}).get("TypeText", None)
         problem_options = question.get("content", {}).get("Options", None)
         problem_index = question.get("index", None)
-        if not df_breakpoint[
-            (df_breakpoint["leaf_id"] == leaf_id)
-            & (df_breakpoint["problem_id"] == problem_id)
-            & (df_breakpoint["completed"])
-        ].empty:
-            print("\t skip", problem_id)
-            continue
         print("\t start", problem_id)
         answer = get_problem_answer(question, exercise_id, leaf_id, problem_id)
         answers = []
@@ -166,11 +152,5 @@ for name, leaf_id in exercise:
             ]
         )
         df_results = pd.concat([df_results, new_row], ignore_index=True)
-
-        new_breakpoint = pd.DataFrame(
-            [{"leaf_id": leaf_id, "problem_id": problem_id, "completed": True}]
-        )
-        df_breakpoint = pd.concat([df_breakpoint, new_breakpoint], ignore_index=True)
-        df_breakpoint.to_csv("breakpoint_with_run.csv", index=False)
     df_results.to_json("results_with_run.json", orient="records", force_ascii=False)
     print(f"end {name}")
