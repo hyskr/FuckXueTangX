@@ -1,5 +1,8 @@
 [
     {
+        "exercise_id": 4397712,
+        "leaf_id": 50261867,
+        "problem_id": 43194212,
         "name": "第1.1节测试",
         "problem_index": 1,
         "problem_body": "袋中有4个白球，2个黑球，连取2个球，取后不放回，如果已知第一个是白球，问第二个是白球的概率",
@@ -25,14 +28,14 @@
         "answer": [
             "B"
         ],
-        "exercise_id": 4397712.0,
-        "leaf_id": 50261867.0,
-        "problem_id": 43194212.0,
         "answers": [
             "3\/5"
         ]
     },
     {
+        "exercise_id": 4397712,
+        "leaf_id": 50261867,
+        "problem_id": 43194213,
         "name": "第1.1节测试",
         "problem_index": 2,
         "problem_body": "<p>设二维连续型随机变量（X,Y）的联合概率密度函数为：f(x,y)=6xy(2-x-y)，0&lt;y&lt;1,0&lt;x&lt;1；f(x,y)=0，其他。对于0&lt;y&lt;1，E(X|Y=y)=<\/p>",
@@ -58,14 +61,14 @@
         "answer": [
             "D"
         ],
-        "exercise_id": 4397712.0,
-        "leaf_id": 50261867.0,
-        "problem_id": 43194213.0,
         "answers": [
             "<p>(5-4y)\/(8-6y)<\/p>"
         ]
     },
     {
+        "exercise_id": 4397712,
+        "leaf_id": 50261867,
+        "problem_id": 43194217,
         "name": "第1.1节测试",
         "problem_index": 3,
         "problem_body": "下列说法错误的是",
@@ -91,14 +94,14 @@
         "answer": [
             "A"
         ],
-        "exercise_id": 4397712.0,
-        "leaf_id": 50261867.0,
-        "problem_id": 43194217.0,
         "answers": [
             "E[X|Y]的随机性来自随机变量X"
         ]
     },
     {
+        "exercise_id": 4397717,
+        "leaf_id": 50261888,
+        "problem_id": 43194235,
         "name": "1.2节 测试",
         "problem_index": 1,
         "problem_body": "假定一工厂设备每周出现事故次数的期望为4,在每次事故中受伤工人数是具有相同均值2的独立随机变量，再假定在每次事故中受伤工人数与每周发生的事故数目相独立。则每周受伤人数的期望是",
@@ -124,14 +127,14 @@
         "answer": [
             "D"
         ],
-        "exercise_id": 4397717.0,
-        "leaf_id": 50261888.0,
-        "problem_id": 43194235.0,
         "answers": [
             "8"
         ]
     },
     {
+        "exercise_id": 4397717,
+        "leaf_id": 50261888,
+        "problem_id": 43194238,
         "name": "1.2节 测试",
         "problem_index": 2,
         "problem_body": "以下各式错误的是（）",
@@ -157,14 +160,14 @@
         "answer": [
             "B"
         ],
-        "exercise_id": 4397717.0,
-        "leaf_id": 50261888.0,
-        "problem_id": 43194238.0,
         "answers": [
             "E(Y|X)=E(Y)"
         ]
     },
     {
+        "exercise_id": 4397717,
+        "leaf_id": 50261888,
+        "problem_id": 43194231,
         "name": "1.2节 测试",
         "problem_index": 3,
         "problem_body": "在一次聚会上，n个人将自己的帽子扔到屋子中央，将这些帽子充分混合后，每人随机选取一顶。则取到自己帽子的人数的期望为",
@@ -190,14 +193,14 @@
         "answer": [
             "C"
         ],
-        "exercise_id": 4397717.0,
-        "leaf_id": 50261888.0,
-        "problem_id": 43194231.0,
         "answers": [
             "1"
         ]
     },
     {
+        "exercise_id": 4397722,
+        "leaf_id": 50261908,
+        "problem_id": 43194254,
         "name": "1.3节 测试",
         "problem_index": 1,
         "problem_body": "连续抛掷一枚出现正面的概率为p的硬币，直至出现正面为止，需要抛掷的次数的期望是",
@@ -223,14 +226,14 @@
         "answer": [
             "C"
         ],
-        "exercise_id": 4397722.0,
-        "leaf_id": 50261908.0,
-        "problem_id": 43194254.0,
         "answers": [
             "1\/p"
         ]
     },
     {
+        "exercise_id": 4397722,
+        "leaf_id": 50261908,
+        "problem_id": 43194255,
         "name": "1.3节 测试",
         "problem_index": 2,
         "problem_body": "连续的做每次成功的概率为p的独立实验，N是首次成功时的实验次数，Var(N)=",
@@ -256,14 +259,14 @@
         "answer": [
             "D"
         ],
-        "exercise_id": 4397722.0,
-        "leaf_id": 50261908.0,
-        "problem_id": 43194255.0,
         "answers": [
             "(1-p)\/p2"
         ]
     },
     {
+        "exercise_id": 4397722,
+        "leaf_id": 50261908,
+        "problem_id": 43194260,
         "name": "1.3节 测试",
         "problem_index": 3,
         "problem_body": "<div class=\"custom_ueditor_cn_body\"><p>设X1,X2,…,Xn,…是独立同分布的随机变量，均值为μ，方差为σ²。N是服从参数为λ的泊松分布的随机变量，S= X1+X2+…+XN,则Var(S)=<\/p><\/div>",
@@ -289,14 +292,14 @@
         "answer": [
             "B"
         ],
-        "exercise_id": 4397722.0,
-        "leaf_id": 50261908.0,
-        "problem_id": 43194260.0,
         "answers": [
             "<div class=\"custom_ueditor_cn_body\"><p>λ<span style=\"text-wrap: wrap;\">μ<\/span><span style=\"text-wrap: wrap;\">²<\/span>+λ<span style=\"text-wrap: wrap;\">σ²<\/span><\/p><\/div>"
         ]
     },
     {
+        "exercise_id": 4397729,
+        "leaf_id": 50261930,
+        "problem_id": 43194286,
         "name": "1.4节 测试",
         "problem_index": 1,
         "problem_body": "已知标准正态分布随机变量的特征函数为g(t)=exp{-t2\/2}，随机变量X服从正态分布N(μ，σ2)，则X的特征函数gX(t)为",
@@ -322,14 +325,14 @@
         "answer": [
             "A"
         ],
-        "exercise_id": 4397729.0,
-        "leaf_id": 50261930.0,
-        "problem_id": 43194286.0,
         "answers": [
             " exp{itμ-σ2t2\/2}"
         ]
     },
     {
+        "exercise_id": 4397729,
+        "leaf_id": 50261930,
+        "problem_id": 43194281,
         "name": "1.4节 测试",
         "problem_index": 2,
         "problem_body": "已知随机变量X服从参数为p的两点分布，则X的特征函数为",
@@ -355,14 +358,14 @@
         "answer": [
             "A"
         ],
-        "exercise_id": 4397729.0,
-        "leaf_id": 50261930.0,
-        "problem_id": 43194281.0,
         "answers": [
             " 1-p+peit"
         ]
     },
     {
+        "exercise_id": 4397729,
+        "leaf_id": 50261930,
+        "problem_id": 43194284,
         "name": "1.4节 测试",
         "problem_index": 3,
         "problem_body": "已知随机变量X服从参数为n, p的二项分布，则X的的特征函数为",
@@ -388,14 +391,14 @@
         "answer": [
             "D"
         ],
-        "exercise_id": 4397729.0,
-        "leaf_id": 50261930.0,
-        "problem_id": 43194284.0,
         "answers": [
             "(1-p+peit) n"
         ]
     },
     {
+        "exercise_id": 4397735,
+        "leaf_id": 50261949,
+        "problem_id": 43194309,
         "name": "1.5节 测试",
         "problem_index": 1,
         "problem_body": "设X,Y分别是以λ1和λ2为参数的独立泊松随机变量，则X+Y的矩母函数为",
@@ -421,14 +424,14 @@
         "answer": [
             "B"
         ],
-        "exercise_id": 4397735.0,
-        "leaf_id": 50261949.0,
-        "problem_id": 43194309.0,
         "answers": [
             "exp{(λ1+λ2)(et-1)}"
         ]
     },
     {
+        "exercise_id": 4397735,
+        "leaf_id": 50261949,
+        "problem_id": 43194315,
         "name": "1.5节 测试",
         "problem_index": 2,
         "problem_body": "已知随机变量X的特征函数为g(t)=exp{itμ-σ2t2\/2}，则X服从的分布是 ",
@@ -454,14 +457,14 @@
         "answer": [
             "D"
         ],
-        "exercise_id": 4397735.0,
-        "leaf_id": 50261949.0,
-        "problem_id": 43194315.0,
         "answers": [
             "正态分布"
         ]
     },
     {
+        "exercise_id": 4397735,
+        "leaf_id": 50261949,
+        "problem_id": 43194316,
         "name": "1.5节 测试",
         "problem_index": 3,
         "problem_body": "已知随机变量X的特征函数为g(t)=λ\/(λ-it)，则X服从的分布是 ",
@@ -487,14 +490,14 @@
         "answer": [
             "B"
         ],
-        "exercise_id": 4397735.0,
-        "leaf_id": 50261949.0,
-        "problem_id": 43194316.0,
         "answers": [
             "指数分布"
         ]
     },
     {
+        "exercise_id": 4397744,
+        "leaf_id": 50261978,
+        "problem_id": 43194347,
         "name": "2.1节 测试",
         "problem_index": 1,
         "problem_body": "N(t)为一随机变量，固定时刻t时，N(t)为",
@@ -520,14 +523,14 @@
         "answer": [
             "A"
         ],
-        "exercise_id": 4397744.0,
-        "leaf_id": 50261978.0,
-        "problem_id": 43194347.0,
         "answers": [
             "随机变量"
         ]
     },
     {
+        "exercise_id": 4397744,
+        "leaf_id": 50261978,
+        "problem_id": 43194350,
         "name": "2.1节 测试",
         "problem_index": 2,
         "problem_body": "若利用随机过程描述商场的顾客流，则应将其刻画为",
@@ -553,14 +556,14 @@
         "answer": [
             "C"
         ],
-        "exercise_id": 4397744.0,
-        "leaf_id": 50261978.0,
-        "problem_id": 43194350.0,
         "answers": [
             "离散随机过程"
         ]
     },
     {
+        "exercise_id": 4397744,
+        "leaf_id": 50261978,
+        "problem_id": 43194351,
         "name": "2.1节 测试",
         "problem_index": 3,
         "problem_body": "随机过程Y(t)=5sin(πt+X)，其中X为随机变量,p(X=0)=0.2，p(X=0.5π)=0.8，E[Y(2)]=",
@@ -586,14 +589,14 @@
         "answer": [
             "B"
         ],
-        "exercise_id": 4397744.0,
-        "leaf_id": 50261978.0,
-        "problem_id": 43194351.0,
         "answers": [
             "4"
         ]
     },
     {
+        "exercise_id": 4397752,
+        "leaf_id": 50262000,
+        "problem_id": 43194375,
         "name": "2.2节 测试",
         "problem_index": 1,
         "problem_body": "某次语文考试中考生的分数X~N(90,100),则分数在70分到110分之间的考生占总考生数的百分比是",
@@ -619,14 +622,14 @@
         "answer": [
             "B"
         ],
-        "exercise_id": 4397752.0,
-        "leaf_id": 50262000.0,
-        "problem_id": 43194375.0,
         "answers": [
             "0.9544"
         ]
     },
     {
+        "exercise_id": 4397752,
+        "leaf_id": 50262000,
+        "problem_id": 43194378,
         "name": "2.2节 测试",
         "problem_index": 2,
         "problem_body": "设随机变量X与Y相互独立且同分布，记U=X-Y,V=X+Y,则随机变量U与V",
@@ -652,14 +655,14 @@
         "answer": [
             "C"
         ],
-        "exercise_id": 4397752.0,
-        "leaf_id": 50262000.0,
-        "problem_id": 43194378.0,
         "answers": [
             "相关系数为0"
         ]
     },
     {
+        "exercise_id": 4397752,
+        "leaf_id": 50262000,
+        "problem_id": 43194381,
         "name": "2.2节 测试",
         "problem_index": 3,
         "problem_body": "设随机变量X的函数为Y=aX+b，(a，b为常数)，且E(X),D(X)均存在，则必有",
@@ -685,14 +688,14 @@
         "answer": [
             "C"
         ],
-        "exercise_id": 4397752.0,
-        "leaf_id": 50262000.0,
-        "problem_id": 43194381.0,
         "answers": [
             "E(Y)=aE(X)+b "
         ]
     },
     {
+        "exercise_id": 4397756,
+        "leaf_id": 50262014,
+        "problem_id": 43194392,
         "name": "2.3节 测试",
         "problem_index": 1,
         "problem_body": "设方程x^2+Bx+C=0中的B、C分别表示连续掷均匀的骰子先、后出现的点数，求此方程有重根的概率",
@@ -718,14 +721,14 @@
         "answer": [
             "B"
         ],
-        "exercise_id": 4397756.0,
-        "leaf_id": 50262014.0,
-        "problem_id": 43194392.0,
         "answers": [
             "1\/18"
         ]
     },
     {
+        "exercise_id": 4397756,
+        "leaf_id": 50262014,
+        "problem_id": 43194394,
         "name": "2.3节 测试",
         "problem_index": 2,
         "problem_body": "设随机变量X，Y相互独立，P{X=0}=0.6，P{X=1}=0.4，P{Y=0}=0.5，P{Y=1}=0.5，求E(XY)",
@@ -751,14 +754,14 @@
         "answer": [
             "A"
         ],
-        "exercise_id": 4397756.0,
-        "leaf_id": 50262014.0,
-        "problem_id": 43194394.0,
         "answers": [
             "0.2"
         ]
     },
     {
+        "exercise_id": 4397756,
+        "leaf_id": 50262014,
+        "problem_id": 43194396,
         "name": "2.3节 测试",
         "problem_index": 3,
         "problem_body": "<p><br\/><\/p><p><y<2-2x}上的均匀分布，求p(y>设（X,Y）服从区域D={(x,y): x&gt;0，0&lt;y&lt;2-2x}上的均匀分布，求P(Y&gt;X)=<\/y<2-2x}上的均匀分布，求p(y><\/p>",
@@ -784,14 +787,14 @@
         "answer": [
             "B"
         ],
-        "exercise_id": 4397756.0,
-        "leaf_id": 50262014.0,
-        "problem_id": 43194396.0,
         "answers": [
             "<p>2\/3<\/p>"
         ]
     },
     {
+        "exercise_id": 4397760,
+        "leaf_id": 50262025,
+        "problem_id": 43194406,
         "name": "2.4节 测试",
         "problem_index": 1,
         "problem_body": "甲投篮的命中率为0.8，若进行投篮3次，则恰好投中2次的概率是",
@@ -817,14 +820,14 @@
         "answer": [
             "A"
         ],
-        "exercise_id": 4397760.0,
-        "leaf_id": 50262025.0,
-        "problem_id": 43194406.0,
         "answers": [
             "0.384"
         ]
     },
     {
+        "exercise_id": 4397760,
+        "leaf_id": 50262025,
+        "problem_id": 43194412,
         "name": "2.4节 测试",
         "problem_index": 2,
         "problem_body": "某人准备读一章数学书或者一章历史书，如果他在读一章数学书中印刷错误数是服从均值为2的泊松分布，而他在读一章历史书中的印刷错误数是服从均值为5的泊松分布，假设该读者选取哪一本书是等可能时，求该读者遇到的印刷错误数的期望是",
@@ -850,14 +853,14 @@
         "answer": [
             "A"
         ],
-        "exercise_id": 4397760.0,
-        "leaf_id": 50262025.0,
-        "problem_id": 43194412.0,
         "answers": [
             "7\/2"
         ]
     },
     {
+        "exercise_id": 4397760,
+        "leaf_id": 50262025,
+        "problem_id": 43194408,
         "name": "2.4节 测试",
         "problem_index": 3,
         "problem_body": "<p>设二维连续型随机变量（X,Y）的联合概率密度函数为f(x,y)=24(1-x)y，其中0&lt;y&lt;x&lt;1，求E(X|y),0&lt;y&lt;1<\/p>",
@@ -883,14 +886,14 @@
         "answer": [
             "D"
         ],
-        "exercise_id": 4397760.0,
-        "leaf_id": 50262025.0,
-        "problem_id": 43194408.0,
         "answers": [
             "<p>2y\/3+1\/3<\/p>"
         ]
     },
     {
+        "exercise_id": 4397765,
+        "leaf_id": 50262037,
+        "problem_id": 43194424,
         "name": "2.5节 测试",
         "problem_index": 1,
         "problem_body": "已知标准正态分布随机变量的矩母函数为M(t)=exp((t^2)\/2),则均值为m，标准差为k的正态分布的矩母函数为",
@@ -916,14 +919,14 @@
         "answer": [
             "A"
         ],
-        "exercise_id": 4397765.0,
-        "leaf_id": 50262037.0,
-        "problem_id": 43194424.0,
         "answers": [
             "exp(((kt)^2)\/2+mt) "
         ]
     },
     {
+        "exercise_id": 4397765,
+        "leaf_id": 50262037,
+        "problem_id": 43194427,
         "name": "2.5节 测试",
         "problem_index": 2,
         "problem_body": "已知参数为a的泊松随机变量的矩母函数为g(t)=exp{a(e^t-1)}，设X与Y分别是以b和c为参数的独立的泊松随机变量，则X+Y的矩母函数为",
@@ -949,14 +952,14 @@
         "answer": [
             "B"
         ],
-        "exercise_id": 4397765.0,
-        "leaf_id": 50262037.0,
-        "problem_id": 43194427.0,
         "answers": [
             "exp{(b+c)(e^t-1)} "
         ]
     },
     {
+        "exercise_id": 4397765,
+        "leaf_id": 50262037,
+        "problem_id": 43194428,
         "name": "2.5节 测试",
         "problem_index": 3,
         "problem_body": " 随机变量的分布函数与特征函数是（）关系",
@@ -982,14 +985,14 @@
         "answer": [
             "D"
         ],
-        "exercise_id": 4397765.0,
-        "leaf_id": 50262037.0,
-        "problem_id": 43194428.0,
         "answers": [
             "一对一"
         ]
     },
     {
+        "exercise_id": 4397769,
+        "leaf_id": 50262050,
+        "problem_id": 43194439,
         "name": "3.1节 测试",
         "problem_index": 1,
         "problem_body": "如果我们用随机变量Nt表示(0,t]内发生的随机事件的总数，那么Nt的取值范围是",
@@ -1015,14 +1018,14 @@
         "answer": [
             "C"
         ],
-        "exercise_id": 4397769.0,
-        "leaf_id": 50262050.0,
-        "problem_id": 43194439.0,
         "answers": [
             "Nt≥0"
         ]
     },
     {
+        "exercise_id": 4397769,
+        "leaf_id": 50262050,
+        "problem_id": 43194440,
         "name": "3.1节 测试",
         "problem_index": 2,
         "problem_body": "如果我们用随机变量Nt表示(0,t]内发生的随机事件的总数且是服从参数为λ的poisson过程，那么均值函数E(Nt)为",
@@ -1048,14 +1051,14 @@
         "answer": [
             "B"
         ],
-        "exercise_id": 4397769.0,
-        "leaf_id": 50262050.0,
-        "problem_id": 43194440.0,
         "answers": [
             "λt"
         ]
     },
     {
+        "exercise_id": 4397769,
+        "leaf_id": 50262050,
+        "problem_id": 43194442,
         "name": "3.1节 测试",
         "problem_index": 3,
         "problem_body": "如果我们用随机变量Nt表示(0,t]内发生的随机事件的总数且是服从参数为λ的poisson过程，那么均值函数Var(Nt)为",
@@ -1081,14 +1084,14 @@
         "answer": [
             "D"
         ],
-        "exercise_id": 4397769.0,
-        "leaf_id": 50262050.0,
-        "problem_id": 43194442.0,
         "answers": [
             "λt"
         ]
     },
     {
+        "exercise_id": 4397775,
+        "leaf_id": 50262064,
+        "problem_id": 43194460,
         "name": "3.2节 测试",
         "problem_index": 1,
         "problem_body": "给定一个服从参数为λ的齐次poisson过程，则此过程满足非宇宙大爆炸模型",
@@ -1110,14 +1113,14 @@
         "answer": [
             "B"
         ],
-        "exercise_id": 4397775.0,
-        "leaf_id": 50262064.0,
-        "problem_id": 43194460.0,
         "answers": [
             "满足"
         ]
     },
     {
+        "exercise_id": 4397775,
+        "leaf_id": 50262064,
+        "problem_id": 43194463,
         "name": "3.2节 测试",
         "problem_index": 2,
         "problem_body": "给定一个服从参数为λ的齐次poisson过程，则对于任意h＞0，P{Nh≥2}=",
@@ -1143,14 +1146,14 @@
         "answer": [
             "A"
         ],
-        "exercise_id": 4397775.0,
-        "leaf_id": 50262064.0,
-        "problem_id": 43194463.0,
         "answers": [
             "o(h)"
         ]
     },
     {
+        "exercise_id": 4397775,
+        "leaf_id": 50262064,
+        "problem_id": 43194464,
         "name": "3.2节 测试",
         "problem_index": 3,
         "problem_body": "若{Nt}是平稳独立增量过程且对于任意h＞0，P{Nh=1}=λh+o(h)，则该过程是齐次poisson过程",
@@ -1172,11 +1175,3366 @@
         "answer": [
             "A"
         ],
-        "exercise_id": 4397775.0,
-        "leaf_id": 50262064.0,
-        "problem_id": 43194464.0,
         "answers": [
             "错"
+        ]
+    },
+    {
+        "exercise_id": 4397779,
+        "leaf_id": 50262080,
+        "problem_id": 43194475,
+        "name": "3.3节 测试",
+        "problem_index": 1,
+        "problem_body": "<div class=\"custom_ueditor_cn_body\"><p>设乘客到达某汽车站的乘客为一poisson分布，平均每十分钟到达5位客人，试求在20分钟内到达汽车站至少有10位乘客的概率<\/p><\/div>",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "<div class=\"custom_ueditor_cn_body\"><p>0.2472<\/p><\/div>"
+            },
+            {
+                "key": "B",
+                "value": "<div class=\"custom_ueditor_cn_body\"><p>0.4523<\/p><\/div>"
+            },
+            {
+                "key": "C",
+                "value": "<div class=\"custom_ueditor_cn_body\"><p>0.5420<\/p><\/div>"
+            },
+            {
+                "key": "D",
+                "value": "<div class=\"custom_ueditor_cn_body\"><p>0.1897<\/p><\/div>"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "<div class=\"custom_ueditor_cn_body\"><p>0.5420<\/p><\/div>"
+        ]
+    },
+    {
+        "exercise_id": 4397779,
+        "leaf_id": 50262080,
+        "problem_id": 43194477,
+        "name": "3.3节 测试",
+        "problem_index": 2,
+        "problem_body": "<p>设A,B是相互独立且同服从N(0,1)的随机变量，求随机过程{Xt=At+B,t∈R}的均值函数<\/p>",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "<p>0<\/p>"
+            },
+            {
+                "key": "B",
+                "value": "<p>t1t2<\/p>"
+            },
+            {
+                "key": "C",
+                "value": "<p>t1t2+1<\/p>"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "<p>0<\/p>"
+        ]
+    },
+    {
+        "exercise_id": 4397779,
+        "leaf_id": 50262080,
+        "problem_id": 43194479,
+        "name": "3.3节 测试",
+        "problem_index": 3,
+        "problem_body": "<p>设A,B是相互独立且同服从N(0,1)的随机变量，求随机过程{Xt=At+B,t∈R}的协方差函数<\/p>",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "<p>1<\/p>"
+            },
+            {
+                "key": "B",
+                "value": "<p>t1t2<\/p>"
+            },
+            {
+                "key": "C",
+                "value": "<p>t1t2+1<\/p>"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "<p>t1t2+1<\/p>"
+        ]
+    },
+    {
+        "exercise_id": 4397785,
+        "leaf_id": 50262097,
+        "problem_id": 43194495,
+        "name": "3.4节 测试",
+        "problem_index": 1,
+        "problem_body": "强度为λ的齐次poisson过程的到达时间间隔序列{Xn,n=1,2...}是独立同分布的随机变量序列，则其均值为",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "λ",
+                "key": "A"
+            },
+            {
+                "value": "1\/λ",
+                "key": "B"
+            },
+            {
+                "value": "λ²",
+                "key": "C"
+            },
+            {
+                "value": "2λ",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "1\/λ"
+        ]
+    },
+    {
+        "exercise_id": 4397785,
+        "leaf_id": 50262097,
+        "problem_id": 43194500,
+        "name": "3.4节 测试",
+        "problem_index": 2,
+        "problem_body": "强度为λ的齐次poisson过程的到达时刻序列服从什么分布",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "Erlang(n,λ)",
+                "key": "A"
+            },
+            {
+                "value": "exp(λ)",
+                "key": "B"
+            },
+            {
+                "value": "Ga(n ,λ)",
+                "key": "C"
+            },
+            {
+                "value": "Be(n,λ)",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "Erlang(n,λ)"
+        ]
+    },
+    {
+        "exercise_id": 4397785,
+        "leaf_id": 50262097,
+        "problem_id": 43194504,
+        "name": "3.4节 测试",
+        "problem_index": 3,
+        "problem_body": "<p>对于s≤t,P{X1&lt;s|N(t)=1}=<\/p>",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "<p>t-s<\/p>"
+            },
+            {
+                "key": "B",
+                "value": "<p>t+s<\/p>"
+            },
+            {
+                "key": "C",
+                "value": "<p>t\/s<\/p>"
+            },
+            {
+                "key": "D",
+                "value": "<p>s\/t<\/p>"
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "answers": [
+            "<p>s\/t<\/p>"
+        ]
+    },
+    {
+        "exercise_id": 4397788,
+        "leaf_id": 50262110,
+        "problem_id": 43194515,
+        "name": "3.5节 测试",
+        "problem_index": 1,
+        "problem_body": "设{N(t),t≥0}是速率为λ的泊松过程，下列式子不正确的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "E(Nt)=λt",
+                "key": "A"
+            },
+            {
+                "value": "Var(Nt)=(λt)^2",
+                "key": "B"
+            },
+            {
+                "value": "Cov(t1,t2)= λmin{ t1,t2}",
+                "key": "C"
+            },
+            {
+                "value": "R(t1,t2)= λmin{ t1,t2}+(λ^2)t1t2",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "Var(Nt)=(λt)^2"
+        ]
+    },
+    {
+        "exercise_id": 4397788,
+        "leaf_id": 50262110,
+        "problem_id": 43194517,
+        "name": "3.5节 测试",
+        "problem_index": 2,
+        "problem_body": "以下哪个分布在特定情况下存在泊松逼近",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "二项分布",
+                "key": "A"
+            },
+            {
+                "value": "正态分布",
+                "key": "B"
+            },
+            {
+                "value": "指数分布",
+                "key": "C"
+            },
+            {
+                "value": "伽马分布",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "二项分布"
+        ]
+    },
+    {
+        "exercise_id": 4397788,
+        "leaf_id": 50262110,
+        "problem_id": 43194519,
+        "name": "3.5节 测试",
+        "problem_index": 3,
+        "problem_body": "设保险公司接到赔偿请求的次数(设一次事故就导致一次索赔)是泊松过程，我们考虑 一种最简单情况,设保险公司每次的赔付都是1, 每月平均4次接到索赔要求,则一年中它要付出的金额平均为多少",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "12",
+                "key": "A"
+            },
+            {
+                "value": "24",
+                "key": "B"
+            },
+            {
+                "value": "48",
+                "key": "C"
+            },
+            {
+                "value": "96",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "48"
+        ]
+    },
+    {
+        "exercise_id": 4397793,
+        "leaf_id": 50262122,
+        "problem_id": 43194535,
+        "name": "3.6节 测试",
+        "problem_index": 1,
+        "problem_body": "当λ=2时，试求P(N1≤2)",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "0.6768",
+                "key": "A"
+            },
+            {
+                "value": "0.2593",
+                "key": "B"
+            },
+            {
+                "value": "0.8842",
+                "key": "C"
+            },
+            {
+                "value": "0.6912",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "0.6768"
+        ]
+    },
+    {
+        "exercise_id": 4397793,
+        "leaf_id": 50262122,
+        "problem_id": 43194536,
+        "name": "3.6节 测试",
+        "problem_index": 2,
+        "problem_body": "当λ=2时，试求P(N1=1，N2=3)",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "0.1593",
+                "key": "A"
+            },
+            {
+                "value": "0.0732",
+                "key": "B"
+            },
+            {
+                "value": "0.0697",
+                "key": "C"
+            },
+            {
+                "value": "0.0298",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "0.0732"
+        ]
+    },
+    {
+        "exercise_id": 4397793,
+        "leaf_id": 50262122,
+        "problem_id": 43194537,
+        "name": "3.6节 测试",
+        "problem_index": 3,
+        "problem_body": "当λ=2时，试求P(N1≥2|N1≥1)",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "0.4896",
+                "key": "A"
+            },
+            {
+                "value": "0.6869",
+                "key": "B"
+            },
+            {
+                "value": "0.7933",
+                "key": "C"
+            },
+            {
+                "value": "0.4791",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "0.6869"
+        ]
+    },
+    {
+        "exercise_id": 4397796,
+        "leaf_id": 50262137,
+        "problem_id": 43194545,
+        "name": "3.7节 测试",
+        "problem_index": 1,
+        "problem_body": "<p>直观上，我们通常说，在(0,t)中已发生n个事件的条件下，事件发生的时间S1，...,Sn在看做不排序的随机统计量时，都是相互独立的，且服从()分布<\/p>",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "<p>正态<\/p>"
+            },
+            {
+                "key": "B",
+                "value": "<p>二项<\/p>"
+            },
+            {
+                "key": "C",
+                "value": "<p>均匀<\/p>"
+            },
+            {
+                "key": "D",
+                "value": "<p>指数<\/p>"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "<p>均匀<\/p>"
+        ]
+    },
+    {
+        "exercise_id": 4397796,
+        "leaf_id": 50262137,
+        "problem_id": 43194546,
+        "name": "3.7节 测试",
+        "problem_index": 2,
+        "problem_body": "假设{N1(t),t≥0}和{N2(t),t≥0}是速率分别为λ1和λ2的独立的poisson过程，则{N1(t)+N2(t)，t≥0}的速率为",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "λ1+λ2",
+                "key": "A"
+            },
+            {
+                "value": "λ1-λ2",
+                "key": "B"
+            },
+            {
+                "value": "λ1*λ2",
+                "key": "C"
+            },
+            {
+                "value": "λ1\/λ2",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "λ1+λ2"
+        ]
+    },
+    {
+        "exercise_id": 4397796,
+        "leaf_id": 50262137,
+        "problem_id": 43194548,
+        "name": "3.7节 测试",
+        "problem_index": 3,
+        "problem_body": "假设{N1(t),t≥0}和{N2(t),t≥0}是速率分别为λ1和λ2的独立的poisson过程，则这个联合过程的首个事件来自{N1(t),t≥0}的概率",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "λ1\/(λ1+λ2)",
+                "key": "A"
+            },
+            {
+                "value": "λ2\/(λ1+λ2)",
+                "key": "B"
+            },
+            {
+                "value": "λ1*λ2\/(λ1+λ2)",
+                "key": "C"
+            },
+            {
+                "value": "λ1\/(λ1-λ2)",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "λ1\/(λ1+λ2)"
+        ]
+    },
+    {
+        "exercise_id": 4397800,
+        "leaf_id": 50262148,
+        "problem_id": 43194561,
+        "name": "3.8节 测试",
+        "problem_index": 1,
+        "problem_body": "一部500页的书总计有150个印刷错误，试用泊松分布近似求连续4页无错误的概率",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "0.1236",
+                "key": "A"
+            },
+            {
+                "value": "0.2319",
+                "key": "B"
+            },
+            {
+                "value": "0.5615",
+                "key": "C"
+            },
+            {
+                "value": "0.3011",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "answers": [
+            "0.3011"
+        ]
+    },
+    {
+        "exercise_id": 4397800,
+        "leaf_id": 50262148,
+        "problem_id": 43194562,
+        "name": "3.8节 测试",
+        "problem_index": 2,
+        "problem_body": "设顾客到达某商场是poisson过程，平均每小时以30人的速度到达，求相继到达的两顾客的时间间隔在1分钟到3分钟之间的概率",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "0.6942",
+                "key": "A"
+            },
+            {
+                "value": "0.6324",
+                "key": "B"
+            },
+            {
+                "value": "0.4962",
+                "key": "C"
+            },
+            {
+                "value": "0.3834",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "answers": [
+            "0.3834"
+        ]
+    },
+    {
+        "exercise_id": 4397800,
+        "leaf_id": 50262148,
+        "problem_id": 43194564,
+        "name": "3.8节 测试",
+        "problem_index": 3,
+        "problem_body": "设顾客到达某商场是poisson过程，平均每小时以30人的速度到达，求相继到达的两顾客的时间间隔大于2分钟的概率",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "0.3678",
+                "key": "A"
+            },
+            {
+                "value": "0.4521",
+                "key": "B"
+            },
+            {
+                "value": "0.8914",
+                "key": "C"
+            },
+            {
+                "value": "0.3694",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "0.3678"
+        ]
+    },
+    {
+        "exercise_id": 4397805,
+        "leaf_id": 50262161,
+        "problem_id": 43194579,
+        "name": "3.9节 测试",
+        "problem_index": 1,
+        "problem_body": "<p>关于齐次泊松过程下列说法正确的是<\/p>",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "<p>其第k个到达时刻的条件分布(即给定[0,t]上发生n件事)为二项分布<\/p>"
+            },
+            {
+                "key": "B",
+                "value": "<p>若[0,t]上仅发生一件事，则其发生时间服从均匀分布<\/p>"
+            },
+            {
+                "key": "C",
+                "value": "<p>若[0,t]上仅发生一件事，则其发生概率服从Γ(n,λ)<\/p>"
+            },
+            {
+                "key": "D",
+                "value": "<p>若[0,t]上发生n件事，则第s件事其发生概率为几何分布<\/p>"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "<p>若[0,t]上仅发生一件事，则其发生时间服从均匀分布<\/p>"
+        ]
+    },
+    {
+        "exercise_id": 4397805,
+        "leaf_id": 50262161,
+        "problem_id": 43194582,
+        "name": "3.9节 测试",
+        "problem_index": 2,
+        "problem_body": "<p>以Sn表示第n件事到达时刻，Nt表示截止到t时刻发生的事件个数，则下列关于事件的说法正确的是<\/p>",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "<p>{Sn≤s}等价于{Ns≤n}<\/p>"
+            },
+            {
+                "key": "B",
+                "value": "<p>{Sn≤s}等价于{Ns≥n}<\/p>"
+            },
+            {
+                "key": "C",
+                "value": "<p>{Sn≤s}等价于{Ns≥n-1}<\/p>"
+            },
+            {
+                "key": "D",
+                "value": "<p>{Sn≤s}等价于{Nt≥n}<\/p>"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "<p>{Sn≤s}等价于{Ns≥n}<\/p>"
+        ]
+    },
+    {
+        "exercise_id": 4397805,
+        "leaf_id": 50262161,
+        "problem_id": 43194584,
+        "name": "3.9节 测试",
+        "problem_index": 3,
+        "problem_body": "关于判断一个过程是否为齐次泊松过程的方法，下列说法正确的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "若在给定[0,t]上发生n件事，则若发生概率为exp{nλ}，则为齐次泊松过程",
+                "key": "A"
+            },
+            {
+                "value": "若在给定[0,t]上发生1件事，则若发生概率为exp{λ}",
+                "key": "B"
+            },
+            {
+                "value": "若在给定[0,t]上发生n件事，则若发生概率为U[0,t]^n，则为齐次泊松过程",
+                "key": "C"
+            },
+            {
+                "value": "若在给定[0,t]上发生1件事，则若发生概率为两点分布B(1,1\/t)，则为齐次泊松过程",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "若在给定[0,t]上发生n件事，则若发生概率为U[0,t]^n，则为齐次泊松过程"
+        ]
+    },
+    {
+        "exercise_id": 4397808,
+        "leaf_id": 50262172,
+        "problem_id": 43194590,
+        "name": "3.10节 测试",
+        "problem_index": 1,
+        "problem_body": "若Ni(t)，i=1,2,为速率分别为λ1和λ2的齐次泊松过程，且相互独立，则N(t)=N1(t)+N2(t)为何种过程",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "为参数为λ1-λ2的齐次泊松过程",
+                "key": "A"
+            },
+            {
+                "value": "为参数为λ1+λ2的非齐次泊松过程",
+                "key": "B"
+            },
+            {
+                "value": "为参数为λ1+λ2的齐次泊松过程",
+                "key": "C"
+            },
+            {
+                "value": "为参数为λ1λ2的齐次泊松过程",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "为参数为λ1+λ2的齐次泊松过程"
+        ]
+    },
+    {
+        "exercise_id": 4397808,
+        "leaf_id": 50262172,
+        "problem_id": 43194592,
+        "name": "3.10节 测试",
+        "problem_index": 2,
+        "problem_body": "如果移民以每星期10人的泊松速率到达A地区,若每个移民是英格兰后裔的概率是1\/12,那么在二月份没有英格兰后裔移民到A地区的概率是多少？",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "0.036",
+                "key": "A"
+            },
+            {
+                "value": "0.05",
+                "key": "B"
+            },
+            {
+                "value": "0.02",
+                "key": "C"
+            },
+            {
+                "value": "0.018",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "0.036"
+        ]
+    },
+    {
+        "exercise_id": 4397808,
+        "leaf_id": 50262172,
+        "problem_id": 43194593,
+        "name": "3.10节 测试",
+        "problem_index": 3,
+        "problem_body": "<p>若Ni(t)，i=1,2,为速率分别为λ1和λ2的齐次泊松过程，且相互独立，则N(t)=N1(t)+N2(t)过程中第一个事件来自于N1过程的概率为<\/p>",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "<p>λ2\/(λ1+λ2)<\/p>"
+            },
+            {
+                "key": "B",
+                "value": "<p>λ1\/(λ1+λ2)<\/p>"
+            },
+            {
+                "key": "C",
+                "value": "<p>1\/(λ1+λ2)<\/p>"
+            },
+            {
+                "key": "D",
+                "value": "<p>(λ1\/(λ1+λ2))^2<\/p>"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "<p>λ1\/(λ1+λ2)<\/p>"
+        ]
+    },
+    {
+        "exercise_id": 4397812,
+        "leaf_id": 50262183,
+        "problem_id": 43194604,
+        "name": "3.11节 测试",
+        "problem_index": 1,
+        "problem_body": "<p>关于非齐次泊松和齐次泊松分布下列说法正确的是<\/p>",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "<p>非时齐泊松过程可能在某些时刻发生事件发生可能性更大<\/p>"
+            },
+            {
+                "key": "B",
+                "value": "<p>时齐泊松过程可能在某些时刻发生事件发生可能性更大<\/p>"
+            },
+            {
+                "key": "C",
+                "value": "<p>非时齐泊松过程事件发生可能性在任意时刻均等<\/p>"
+            },
+            {
+                "key": "D",
+                "value": "<p>时齐泊松过程是非时齐泊松过程的推广<\/p>"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "<p>非时齐泊松过程可能在某些时刻发生事件发生可能性更大<\/p>"
+        ]
+    },
+    {
+        "exercise_id": 4397812,
+        "leaf_id": 50262183,
+        "problem_id": 43194606,
+        "name": "3.11节 测试",
+        "problem_index": 2,
+        "problem_body": "例5.24西伯经营了一家热狗售货亭，上午8点开始营业.从上午8点到上午11点，基本上有一个稳定増长的顾客平均到达率，在8点以每小时5个顾客的速率开始，而在11点达到每小时20个顾客的最大值.从上午11点到下午1点（平均）到达率基本上保持常数，即每小时20个顾客.（平均）到达率从下午1点直到下午5点关门稳定地下降，这时的值是每小时12个顾客.如果假定到达西伯售货亭的顾客数在不相交的时间段是独立的，在星期一上午8:30到上午9:30的平均到达人数是多少？",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "10",
+                "key": "A"
+            },
+            {
+                "value": "12",
+                "key": "B"
+            },
+            {
+                "value": "8",
+                "key": "C"
+            },
+            {
+                "value": "15",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "10"
+        ]
+    },
+    {
+        "exercise_id": 4397812,
+        "leaf_id": 50262183,
+        "problem_id": 43194608,
+        "name": "3.11节 测试",
+        "problem_index": 3,
+        "problem_body": "设某设备使用年限为10年，在前5年内平均2.5年需维修一次，后5年平均2年维修一次，求在使用期限内只维修过一次的概率",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "(7\/2)exp{-7\/2}",
+                "key": "A"
+            },
+            {
+                "value": "4exp{-4}",
+                "key": "B"
+            },
+            {
+                "value": "(9\/2)exp{-9\/2}",
+                "key": "C"
+            },
+            {
+                "value": "(11\/2)exp{-11\/2}",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "(9\/2)exp{-9\/2}"
+        ]
+    },
+    {
+        "exercise_id": 4397815,
+        "leaf_id": 50262193,
+        "problem_id": 43194620,
+        "name": "3.12节 测试",
+        "problem_index": 1,
+        "problem_body": "<p>某刊物邮购部的顾客数是平均速率为6的泊松过程,订阅1年、2年或3年的概率分别为1\/2、1\/3和1\/6,且相互独立.设订一年时，可得1元手续费.以X(t)记在[0,t]内得到的总手续\n费，求 E[X(t)]<\/p>",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "<p>10t<\/p>"
+            },
+            {
+                "key": "B",
+                "value": "<p>20t<\/p>"
+            },
+            {
+                "key": "C",
+                "value": "<p>15t<\/p>"
+            },
+            {
+                "key": "D",
+                "value": "<p>8t<\/p>"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "<p>10t<\/p>"
+        ]
+    },
+    {
+        "exercise_id": 4397815,
+        "leaf_id": 50262193,
+        "problem_id": 43194621,
+        "name": "3.12节 测试",
+        "problem_index": 2,
+        "problem_body": "在保险的索赔模型中，设索赔要求以平均2次\/月的速率的泊松过程到达保险公司.若每次赔付金额是均值为10000元\n的正态分布，求一年中保险公司的平均赔付金额.",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "240000",
+                "key": "A"
+            },
+            {
+                "value": "200000",
+                "key": "B"
+            },
+            {
+                "value": "260000",
+                "key": "C"
+            },
+            {
+                "value": "300000",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "240000"
+        ]
+    },
+    {
+        "exercise_id": 4397815,
+        "leaf_id": 50262193,
+        "problem_id": 43194622,
+        "name": "3.12节 测试",
+        "problem_index": 3,
+        "problem_body": "<p>当{X(t),t &gt; 0｝是一个复合泊松过程时，<img class=\"kfformula\" style=\"vertical-align: middle;\" src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAALMAAABSCAYAAAAfDOXUAAAJfElEQVR4Xu2dV8h0NRCG31\/Fgr13bIgNLOiFqFhBBcXeuyh6YcGCYsGGWFDsvWHvigVEfr2woKIiWG7UC7GAvStiQVEeSCAcz9nN2U1Ods9O4EO\/f3Mmk3feMzuZTPLNkTVDoCcIzOnJPGwahoCMzEaC3iBgZO6NKW0iRmbjQG8QMDL3xpQ2ESOzcaA3CBiZe2NKm4iR2TjQGwSMzL0xpU3EyGwc6A0CRubJM+XBku6TNFcS\/\/99RcV1JD0s6XJJ90+e+uU0MjKXw75pZE9mPj+khrBG5gbkjMyTSebTJH0taXlJ+0v6MFDTyGxknjzWNmiEZ4bMx0k6R9Inkk6W9Lvrb2Q2Mk8dmfHIy0h6pRJuGJmNzFNJZsILvPPeQbhhZDYyTy2Zl3aLwFclXSjJyGxknloyo\/iWLtzYStJ3Dak5Ym3azKbrLJsxeRz3C8BqFoNwA1LjnW+oyTMbmSfPljOvUROZfbiBAyJlF26ahLnpWyrZj5kB1Dzz5Jm6icxoOmhDxTzz5Nly5jUaROaFJF0l6dia3UEj88xTpz8AGJn7Y8uZn4nPeFjMPPNUMACmHgFbAE69CW0CHgEjs3GhNwgYmXtjSpuIkbk8B86X9G8GNZ6S9E6N3PkkXSDpLElPSDpK0o8Dxufz2yU96lKCg\/pmmEa8yC7IvJik6yQd5sAjR\/ptg4pLSmI1vq+kiyWdJ+nvyOksLOkySZtKOlLS+xHPbSPpbkk3SbqixVgRoqO7QLiNXO9rJD0Z8eQSkjYO+q3ufvdy+Agy79EgawNHzlUkHer61nVdWdK9kjaTtI+k5yJ0K9alCzIzOcB4TNJqko5xb3rVG6ELuVLAo0KMI0MUpsc0nj3aERL5D7mH+HeMvpfzUo9XhM0r6RRXZlnKWBARQi8u6SdJm7SYdxUbSH6EJLw98tZokMW8T3cOo8njekxvlXSPpBMk\/RJjjFJ9uiKzJw2es4moazsir+8I7wkZg40vi3zT1SX85h4atGPm5S4n6TZJizov9XnMgIn74EH5yqdBbAg9ToPUV7uX46QGQR6zNRu8s\/fK60o6QNLL4yjUxbNdkZm5rOA88i4uXoPY\/7hJhnHcjc5reEIOw4EXhXAEz1wFPYbMyMdz47Ux\/LWZYthh87hL0uGuE+FGEwmHyQk\/RyZy8PjVhu05jkV4VfW8oVcGD7z4n20GLtG3SzIzvx1duPGDi8HecpPe2oUG30g6MDLe9XjxVfqge+Z4SeFLEEvmFZ1BkUls\/2UBY+BNXwzi5+3c7+OoQgjDD3LrGp9xrcGGlZjYe2W8NuGXt9M4umR\/tmsyLyDpIkmnuoUenmHBYNHXFE8PAsJXkoXH8n255E4ND1a3fEMvxQv3fHbk6wcgvod4Pn7mRa3zqqnUY94nupDEe+df3bccsXLbRXgqvUaS0zWZUXI950n9W7\/qGKmf+SVdKmlX50Hecyi0JTOPUdvwrKQrXeoqR7osxkiEBVTG0SA2HjpnC73znpI+ct56KRe2eUxz6pBEdgkyh\/HYS5L4euUHD8visE1bVtIDLp4jxVTNgcaGGYxJpgVZXzjP9HOgSFhHHKNf3eUtMc\/5PqTndne\/kBMmO5Grhfa4XhIL4Etq1jW5xk8mtwSZUT7MJ\/M7Cww8ol8Qxk7Qr8hfbzhd0YbMfLWzOcDxfsgLqX3rmsy83GQ1eMFoZDfqNkBicRrWL8wncz\/Hx27twn+nppUic5jZACxW1GePsGL2ZY\/nurNxVeDbkNn33bzmFqESBt1W0gtuYPLtEDpn\/Ox3+hiyZFZnZKxLkJk03BmOfHdKIq\/MzyibFn0mM0YlvCDtSCP0IKbN1fy33DyS9pP0Qa6BcsktQebt3QLjM5dX3dmtpp9xsepXLSbbdzIDBYtAtt1pZH\/YDMnRPJmRXT0ZnmO85DK7JnMYXrBg444HFnHswO02QuzcFZm7jplDQxM\/E2YQ07NgJvzI0cYhs7cDaU1uX6L+htbpqZcuyRyGF9Udp6bNlGFGY6v1EUmvJVgAsp3NfRRrSTpI0qfB4CXJjBrEsIQc5KFj61WGYVf9PAWZ3625RoydVe76yN66JLMPL\/6qScOx+GJ7mx28NkUtKznvzq5fXWqO+RFz8kPJIymnpuZlcWMQW+Nhai67IQYMAIFZCJJvzpnRSEHmakrSX1xTd2l6cky7InMYXjBBNjqqpZ1sqVJcxKZK7E6gz0BsMWDRcqbbySIm55pYPC67jtQahBsjZDEocSTXio5t04TJjePy72+7TRzqLHK2FGTm+rBwrwAS42R6Q+YwvBhU2hlW1vF1FVujQXx2c8Mt8xg\/LD\/1ZKiL5Vhcketms+LpnKyJlE2sjEemLjnnpolXJxeZuWu6kwVlF57ZhxeLRJR2+uQ9X6l4SDZT\/CXbTRzwheZvuDClWm3HHJFHmLGDJGoPqMyDIH84oWzi3CGJLVwKjci0lG7eE1OfPOktvNix6pl7RebchvDFSyzaqAumprltwxtzKACCUxdRqi7D6036jaxFeJqk7Zy67G9kToi2j7cpIA\/\/ZELMEH5rnQVgm9MtMbJH6YMnJnsBmcfd8RtWAjqKfnXPGJlTISnJlzKSAgqPTQ0bYtTnhskd9XMIzE4f\/02RuUAWL8e4L8Ww+RiZhyHU8vNpPdDqp5kyBcfikXCJl3UaYu6Wpq7v3sUCMImiPRcC+VKk4JBD\/E\/sT4hBLUfMae9ewGtkLm9Gn4JDk1GJ568aCBeM5NP595lpRubypg4PsqbUJtWh2JQ6ZZVlZM4Kb5TwXIVDLCBzL\/yiJthVJyNzV0jbONkRMDJnh3giBvA1LP62qIlQKrUSRubUiE6WvOop9Woh0GRpO6Y2RuYxAZzgxyEy9S2k6fzf4DYyT7DBplU1\/7WP\/hSvh7dr5iBc0w7dtOJXq7d55jLmDE+NhyfLq3\/0PZV2RuZUSJqc\/yHgycymRli4XvdH3v2\/hXcvhwJjztkZmY2E2RAIw4ywys8v2Mg6pPyD7kbmbKY0wcPITIF7ykOgRmbjXDYE2pDZwoxIM9gCMBKoxN3akDnF0OaZU6BoMmoRMDJnIIZ55gygRojsgsyD7qie29Xx\/wgsknUxMieD0gSVRsDIXNoCNn4yBIzMyaA0QaURMDKXtoCNnwwBI3MyKE1QaQSMzKUtYOMnQ8DInAxKE1QaASNzaQvY+MkQMDIng9IElUbAyFzaAjZ+MgSMzMmgNEGlETAyl7aAjZ8MASNzMihNUGkE\/gNOiCxxMFQCpQAAAABJRU5ErkJggg==\" data-display=\"inline-block\" data-slatex=\"X(t)=\\\\sum ^{{N}_{t}}_{n=1} {{Y}_{n}}\" data-latex=\"X(t)=\\sum ^{{N}_{t}}_{n=1} {{Y}_{n}}\"\/>，求Cov(X(t),X(t + s))<\/p>",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "<p>λtE[Y^2]<\/p>"
+            },
+            {
+                "key": "B",
+                "value": "<p>λtE[Y]<\/p>"
+            },
+            {
+                "key": "C",
+                "value": "<p>λ(t-1)E[Y^2]<\/p>"
+            },
+            {
+                "key": "D",
+                "value": "<p>(λ-1)tE[Y^2]<\/p>"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "<p>λtE[Y^2]<\/p>"
+        ]
+    },
+    {
+        "exercise_id": 4397818,
+        "leaf_id": 50262202,
+        "problem_id": 43194633,
+        "name": "3.13节 测试",
+        "problem_index": 1,
+        "problem_body": "在齐次泊松过程中，剩余寿命与总寿命同分布，其最根本的意义在于",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "使得齐次泊松分布可以用任意时刻作为起始时刻",
+                "key": "A"
+            },
+            {
+                "value": "不具有明显意义",
+                "key": "B"
+            },
+            {
+                "value": "简化计算",
+                "key": "C"
+            },
+            {
+                "value": "便于推导",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "使得齐次泊松分布可以用任意时刻作为起始时刻"
+        ]
+    },
+    {
+        "exercise_id": 4397818,
+        "leaf_id": 50262202,
+        "problem_id": 43194634,
+        "name": "3.13节 测试",
+        "problem_index": 2,
+        "problem_body": "关于齐次泊松过程剩余寿命叙述正确的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "其与时间t成正比关系",
+                "key": "A"
+            },
+            {
+                "value": "其与时间t无关",
+                "key": "B"
+            },
+            {
+                "value": "其与时间t成反比关系",
+                "key": "C"
+            },
+            {
+                "value": "其与时间t^2成正比关系",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "其与时间t无关"
+        ]
+    },
+    {
+        "exercise_id": 4397818,
+        "leaf_id": 50262202,
+        "problem_id": 43194635,
+        "name": "3.13节 测试",
+        "problem_index": 3,
+        "problem_body": "给定齐次泊松过程{N(t),t≥0}，且其速率为λ，则此过程剩余寿命的分布为",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "exp{1\/λ}",
+                "key": "A"
+            },
+            {
+                "value": "exp{λ^2}",
+                "key": "B"
+            },
+            {
+                "value": "exp{1\/λ^2}",
+                "key": "C"
+            },
+            {
+                "value": "exp{λ}",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "answers": [
+            "exp{λ}"
+        ]
+    },
+    {
+        "exercise_id": 4397821,
+        "leaf_id": 50262215,
+        "problem_id": 43194643,
+        "name": "4.1节 测试",
+        "problem_index": 1,
+        "problem_body": "<p>设{N(t),t≥0}是速率为m的泊松过程，对于0&lt;s&lt;t，E[N(t)|N(s)=4]=<\/p>",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "<p>m(t-s)<\/p>"
+            },
+            {
+                "key": "B",
+                "value": "<p>t-s<\/p>"
+            },
+            {
+                "key": "C",
+                "value": "<p>4(t-s)<\/p>"
+            },
+            {
+                "key": "D",
+                "value": "<p>4+m(t-s)<\/p>"
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "answers": [
+            "<p>4+m(t-s)<\/p>"
+        ]
+    },
+    {
+        "exercise_id": 4397821,
+        "leaf_id": 50262215,
+        "problem_id": 43194644,
+        "name": "4.1节 测试",
+        "problem_index": 2,
+        "problem_body": "设{N(t),t≥0}和{M(t),t≥0}是独立的泊松过程，分别具有强度a和b，则{N(t)+M（t）,t≥0}是具有强度（）的泊松过程",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "ab",
+                "key": "A"
+            },
+            {
+                "value": "a+b",
+                "key": "B"
+            },
+            {
+                "value": "a-b",
+                "key": "C"
+            },
+            {
+                "value": "a\/b",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "a+b"
+        ]
+    },
+    {
+        "exercise_id": 4397821,
+        "leaf_id": 50262215,
+        "problem_id": 43194645,
+        "name": "4.1节 测试",
+        "problem_index": 3,
+        "problem_body": "设{N(t),t≥0}是泊松过程, Tn表示第n个事件发生的时刻，则下面正确的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "{Tn≤t}={N(t)=n} ",
+                "key": "A"
+            },
+            {
+                "value": "{Tn≤t}={N(t)≥n}",
+                "key": "B"
+            },
+            {
+                "value": "{Tn≤t}={N(t)≤n}",
+                "key": "C"
+            },
+            {
+                "value": " {Tn=t}={N(t)=n}",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "{Tn≤t}={N(t)≥n}"
+        ]
+    },
+    {
+        "exercise_id": 4397828,
+        "leaf_id": 50262233,
+        "problem_id": 43194681,
+        "name": "4.2节 测试",
+        "problem_index": 1,
+        "problem_body": "在保险的索赔模型中，设索赔要求以平均每月两次的速率的泊松过程到达保险公司，每次赔付服从均值为10000元的正态分布，则一年中保险公司的平均赔付额是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "240000",
+                "key": "A"
+            },
+            {
+                "value": "20000",
+                "key": "B"
+            },
+            {
+                "value": "120000",
+                "key": "C"
+            },
+            {
+                "value": "480000",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "240000"
+        ]
+    },
+    {
+        "exercise_id": 4397828,
+        "leaf_id": 50262233,
+        "problem_id": 43194682,
+        "name": "4.2节 测试",
+        "problem_index": 2,
+        "problem_body": "假设家庭以每星期λ=2的泊松速率移民到一个地区。如果每个家庭的人数是独立的，而且分别以概率1\/6，1\/3，1\/3，1\/6\/取值1，2，3，4，那么在固定的5个星期中移民到这个地区的平均人数为",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "5",
+                "key": "A"
+            },
+            {
+                "value": "10",
+                "key": "B"
+            },
+            {
+                "value": "15",
+                "key": "C"
+            },
+            {
+                "value": "25",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "answers": [
+            "25"
+        ]
+    },
+    {
+        "exercise_id": 4397828,
+        "leaf_id": 50262233,
+        "problem_id": 43194687,
+        "name": "4.2节 测试",
+        "problem_index": 3,
+        "problem_body": "下列说法错误的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "复合泊松过程一定是平稳增量过程",
+                "key": "A"
+            },
+            {
+                "value": "非时齐泊松过程是独立增量过程",
+                "key": "B"
+            },
+            {
+                "value": "复合泊松过程一定是独立增量过程",
+                "key": "C"
+            },
+            {
+                "value": "复合泊松过程一定是计数过程",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "answers": [
+            "复合泊松过程一定是计数过程"
+        ]
+    },
+    {
+        "exercise_id": 4397834,
+        "leaf_id": 50262253,
+        "problem_id": 43194733,
+        "name": "4.3节 测试",
+        "problem_index": 1,
+        "problem_body": "下列说法错误的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "Y(t)与Xn同指数分布，是poisson过程特有的性质",
+                "key": "A"
+            },
+            {
+                "value": "齐次泊松过程不可以用任意时刻作为起始时刻",
+                "key": "B"
+            },
+            {
+                "value": "可以用Y(t) 与Xn来刻画泊松过程",
+                "key": "C"
+            },
+            {
+                "value": "可以用E(Y(t))与t无关来验证泊松过程",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "齐次泊松过程不可以用任意时刻作为起始时刻"
+        ]
+    },
+    {
+        "exercise_id": 4397834,
+        "leaf_id": 50262253,
+        "problem_id": 43194734,
+        "name": "4.3节 测试",
+        "problem_index": 2,
+        "problem_body": "对于更新过程，下列说法错误的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": " {N(t)≥n} = {S(n)≤t}",
+                "key": "A"
+            },
+            {
+                "value": "{N(t)=n} = {S(n)≤t}-{S(n+1)≤t}",
+                "key": "B"
+            },
+            {
+                "value": " P(N(t)=n)=P(S(n)≤t)-P(S(n+1)≤t)",
+                "key": "C"
+            },
+            {
+                "value": "{N(t)≥n} = {S(n)>t}",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "answers": [
+            "{N(t)≥n} = {S(n)>t}"
+        ]
+    },
+    {
+        "exercise_id": 4397834,
+        "leaf_id": 50262253,
+        "problem_id": 43194739,
+        "name": "4.3节 测试",
+        "problem_index": 3,
+        "problem_body": "已知甲虫横穿公路需要3分钟，汽车流够成更新流，平均5分钟一辆通过该公路，忽略汽车的长度，更新间隔服从指数分布时，计算甲虫被撞的概率",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "0.4512",
+                "key": "A"
+            },
+            {
+                "value": "0.6549",
+                "key": "B"
+            },
+            {
+                "value": "0.7428",
+                "key": "C"
+            },
+            {
+                "value": "0.8796",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "0.4512"
+        ]
+    },
+    {
+        "exercise_id": 4397839,
+        "leaf_id": 50262275,
+        "problem_id": 43194776,
+        "name": "4.4节 测试",
+        "problem_index": 1,
+        "problem_body": "设一辆出租车每次送乘客所需时间独立同分布期望是半小时，每次等待乘客时间独立同分布期望是15分钟，令P(t)表示t时刻出租车上有乘客的概率，当t趋于无穷时P(t)是多少",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "2\/3",
+                "key": "A"
+            },
+            {
+                "value": "1\/3",
+                "key": "B"
+            },
+            {
+                "value": "1\/2",
+                "key": "C"
+            },
+            {
+                "value": "1",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "2\/3"
+        ]
+    },
+    {
+        "exercise_id": 4397839,
+        "leaf_id": 50262275,
+        "problem_id": 43194779,
+        "name": "4.4节 测试",
+        "problem_index": 2,
+        "problem_body": "设一辆出租车每次送乘客所需时间独立同分布期望是u，每次等待乘客时间独立同分布期望是v，等待时间与送乘客时间独立。从0时刻开始，令N(t)表示t时刻出租车总共载过的乘客数，当t趋于无穷时N(t)\/t是多少",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "1\/(u+v)",
+                "key": "A"
+            },
+            {
+                "value": "1\/u",
+                "key": "B"
+            },
+            {
+                "value": "1\/v",
+                "key": "C"
+            },
+            {
+                "value": "0",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "1\/(u+v)"
+        ]
+    },
+    {
+        "exercise_id": 4397839,
+        "leaf_id": 50262275,
+        "problem_id": 43194780,
+        "name": "4.4节 测试",
+        "problem_index": 3,
+        "problem_body": "设一辆出租车每次送乘客所需时间独立的指数分布lambda=2，每次等待乘客时间独立同分布期望是0.25，等待时间与送乘客时间独立。从0时刻开始，令N(t)表示t时刻出租车总共载过的乘客数，当t趋于无穷时N(t)\/t是多少",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "3\/4",
+                "key": "A"
+            },
+            {
+                "value": "4\/3",
+                "key": "B"
+            },
+            {
+                "value": "4\/9",
+                "key": "C"
+            },
+            {
+                "value": "9\/4",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "4\/3"
+        ]
+    },
+    {
+        "exercise_id": 4397847,
+        "leaf_id": 50262305,
+        "problem_id": 43194844,
+        "name": "5.1节 测试",
+        "problem_index": 1,
+        "problem_body": "甲乙两人游戏，每一局甲赢1元的概率为p，输1元的概率为q=1-p，假设一开始甲带了0元钱。令Sn表示n局后甲所拥有的钱数。求P{S8=4|S4=2}",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "pq",
+                "key": "A"
+            },
+            {
+                "value": "4qp^3",
+                "key": "B"
+            },
+            {
+                "value": "4pq^3",
+                "key": "C"
+            },
+            {
+                "value": "2(p^2)(q^2)",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "4qp^3"
+        ]
+    },
+    {
+        "exercise_id": 4397847,
+        "leaf_id": 50262305,
+        "problem_id": 43194848,
+        "name": "5.1节 测试",
+        "problem_index": 2,
+        "problem_body": "设马尔可夫链{Xn,n≥0}的状态空间为S={1, 2, 3},X0 = 3,，转移概率矩阵为[1,0,0;1\/3,0,2\/3;0,1\/3,2\/3]，求E(X2)=\n",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "23\/9",
+                "key": "A"
+            },
+            {
+                "value": "15\/9",
+                "key": "B"
+            },
+            {
+                "value": "23\/15",
+                "key": "C"
+            },
+            {
+                "value": "8\/9",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "23\/9"
+        ]
+    },
+    {
+        "exercise_id": 4397847,
+        "leaf_id": 50262305,
+        "problem_id": 43194853,
+        "name": "5.1节 测试",
+        "problem_index": 3,
+        "problem_body": "设明天是否有雨仅与今天的天气有关，而与过去的天气无关。又设今天下雨而明天也下雨的概率为a，而今天无雨明天有雨的概率为b。规定有雨天气为状态0，无雨天气为状态1。设a=0.7，b=0.4，求今天有雨且第四天仍有雨的概率为",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "0.5749",
+                "key": "A"
+            },
+            {
+                "value": "0.4251",
+                "key": "B"
+            },
+            {
+                "value": "0.5678",
+                "key": "C"
+            },
+            {
+                "value": "0.4332",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "0.5749"
+        ]
+    },
+    {
+        "exercise_id": 4397851,
+        "leaf_id": 50262327,
+        "problem_id": 43194871,
+        "name": "5.2节 测试",
+        "problem_index": 1,
+        "problem_body": "甲、乙两人进行比赛，设每局比赛中甲胜的概率为p，乙胜的概率为q，和局的概率为r，并且（p+q+r）=1。胜、负、平局分别记为1、-1、0分。当有一人得2分即获胜。以Xn表示比赛到第n局时甲获得的分数。问甲在获得1分的情况下，再赛两局可以结束比赛的概率为：",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "p(1+q)",
+                "key": "A"
+            },
+            {
+                "value": "p(1+r)",
+                "key": "B"
+            },
+            {
+                "value": "p(1+p)",
+                "key": "C"
+            },
+            {
+                "value": "q(1+r)",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "p(1+r)"
+        ]
+    },
+    {
+        "exercise_id": 4397851,
+        "leaf_id": 50262327,
+        "problem_id": 43194877,
+        "name": "5.2节 测试",
+        "problem_index": 2,
+        "problem_body": "设马尔可夫链{Xn,n≥0}的状态空间为S={1,2,3}，初始分布为p1=1\/4, p2=1\/2, p3=1\/4，转移概率矩阵为[1\/4,3\/4,0;1\/3,1\/3,1\/3;0,1\/4,3\/4]，求P{X2=2|X0=1}=",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "7\/36",
+                "key": "A"
+            },
+            {
+                "value": "4\/16",
+                "key": "B"
+            },
+            {
+                "value": "5\/16",
+                "key": "C"
+            },
+            {
+                "value": "7\/16",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "answers": [
+            "7\/16"
+        ]
+    },
+    {
+        "exercise_id": 4397851,
+        "leaf_id": 50262327,
+        "problem_id": 43194884,
+        "name": "5.2节 测试",
+        "problem_index": 3,
+        "problem_body": "具有三状态（0,1,2）的一维随机游动，以X(t)=j表示时刻t粒子处在状态j，过程X(t)的一步转移概率矩阵为：[q,p,0;q,0,p;0,q,p]，求粒子从状态1经三步转移回到状态1的概率。",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "pq",
+                "key": "A"
+            },
+            {
+                "value": "p(1+p)",
+                "key": "B"
+            },
+            {
+                "value": "q(p+1)",
+                "key": "C"
+            },
+            {
+                "value": "(1+p)(1+q)",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "pq"
+        ]
+    },
+    {
+        "exercise_id": 4397858,
+        "leaf_id": 50262350,
+        "problem_id": 43194921,
+        "name": "5.3节 测试",
+        "problem_index": 1,
+        "problem_body": "独立重复地掷一颗匀称的骰子，以Xn表示前n次掷出的最小点数。试问P{X(n+1)=3,X(n+2)=3|Xn=3}",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "4\/9",
+                "key": "A"
+            },
+            {
+                "value": "2\/3",
+                "key": "B"
+            },
+            {
+                "value": "5\/9",
+                "key": "C"
+            },
+            {
+                "value": "1\/3",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "4\/9"
+        ]
+    },
+    {
+        "exercise_id": 4397858,
+        "leaf_id": 50262350,
+        "problem_id": 43194923,
+        "name": "5.3节 测试",
+        "problem_index": 2,
+        "problem_body": "设马尔可夫链{Xn,n≥0}的状态空间为S={1,2,3}，初始分布为p1=1\/4, p2=1\/2, p3=1\/4，转移概率矩阵为[1\/4,3\/4,0;1\/3,1\/3,1\/3;0,1\/4,3\/4]，求P{X0=1，X1=2，X2=2}",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "2\/9",
+                "key": "A"
+            },
+            {
+                "value": "4\/9",
+                "key": "B"
+            },
+            {
+                "value": "1\/8",
+                "key": "C"
+            },
+            {
+                "value": "1\/16",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "answers": [
+            "1\/16"
+        ]
+    },
+    {
+        "exercise_id": 4397858,
+        "leaf_id": 50262350,
+        "problem_id": 43194924,
+        "name": "5.3节 测试",
+        "problem_index": 3,
+        "problem_body": "设系统有三种状态S={1,2,3}，“1”表示系统运行良好，“2”表示运行正常，“3”表示系统失效，以Xn表示系统在时刻n的状态，并设{Xn,n≥0}是一马尔可夫链。在没有维修以及更换条件下，其自然转移概率矩阵为P=[17\/20,2\/20,1\/20;0,9\/10,1\/10;0,0,1]，则系统初始于运行良好状态，在[0,2]时间内运行的概率为",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "359\/400",
+                "key": "A"
+            },
+            {
+                "value": "156\/400",
+                "key": "B"
+            },
+            {
+                "value": "34\/400",
+                "key": "C"
+            },
+            {
+                "value": "18\/400",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "359\/400"
+        ]
+    },
+    {
+        "exercise_id": 4397864,
+        "leaf_id": 50262374,
+        "problem_id": 43194968,
+        "name": "5.4节 测试",
+        "problem_index": 1,
+        "problem_body": "一个国家在稳定经济条件下它的出口商品能够用三状态的马尔可夫链描述如下：状态空间S={+1,0,-1}；+1：今年比去年增长≥5%；0：波动低于5%；-1：今年比去年减少≥5%。由以往的统计数据求得转移矩阵为[0.8,0.2,0;0.35,0.30,0.35;0,0.40,0.60]，则状态+1的平均返回时间为",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "29\/14",
+                "key": "A"
+            },
+            {
+                "value": "29\/18",
+                "key": "B"
+            },
+            {
+                "value": "29\/7",
+                "key": "C"
+            },
+            {
+                "value": "15\/8",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "29\/14"
+        ]
+    },
+    {
+        "exercise_id": 4397864,
+        "leaf_id": 50262374,
+        "problem_id": 43194974,
+        "name": "5.4节 测试",
+        "problem_index": 2,
+        "problem_body": "一个五个状态(1,2,3,4,5)的马氏链的转移概率矩阵为：[1\/2,0,0,1\/2,0;1\/2,0,1\/2,0,0;0,0,1,0,0;1,0,0,0,0;0,1,0,0,0]，下列说法错误的是：",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "{2,4}为吸收态",
+                "key": "A"
+            },
+            {
+                "value": "{5}为常返态",
+                "key": "B"
+            },
+            {
+                "value": "{2,3}为闭集",
+                "key": "C"
+            },
+            {
+                "value": "{1,2,3,4}为闭集",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "answers": [
+            "{1,2,3,4}为闭集"
+        ]
+    },
+    {
+        "exercise_id": 4397864,
+        "leaf_id": 50262374,
+        "problem_id": 43194978,
+        "name": "5.4节 测试",
+        "problem_index": 3,
+        "problem_body": "马氏链{Xn,n>=0}的状态空间为{1,2,3}，其一步转移概率为[1\/3,2\/3,0;1\/3,0,2\/3;0,1\/3,2\/3]，那么状态3的平均返回时间为：",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "7\/4",
+                "key": "A"
+            },
+            {
+                "value": "7\/8",
+                "key": "B"
+            },
+            {
+                "value": "7\/2",
+                "key": "C"
+            },
+            {
+                "value": "7",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "7\/4"
+        ]
+    },
+    {
+        "exercise_id": 4397867,
+        "leaf_id": 50262391,
+        "problem_id": 43195006,
+        "name": "5.5节 测试",
+        "problem_index": 1,
+        "problem_body": "设马尔科夫链的状态空间为S={1,2,3,4}，转移概率矩阵为：[1\/2,1\/2,0,0;1,0,0,0;0,1\/3,2\/3,0;1\/2,0,1\/2,0]，则该链的状态分类为",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "1和2都是遍历状态，3和4是非常返状态",
+                "key": "A"
+            },
+            {
+                "value": "1和2都是遍历状态，3和4是零常返状态",
+                "key": "B"
+            },
+            {
+                "value": "1和2都是非常返状态，3和4是遍历状态",
+                "key": "C"
+            },
+            {
+                "value": "1和2都是零常返状态，3和4是正常返状态",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "1和2都是遍历状态，3和4是非常返状态"
+        ]
+    },
+    {
+        "exercise_id": 4397867,
+        "leaf_id": 50262391,
+        "problem_id": 43195007,
+        "name": "5.5节 测试",
+        "problem_index": 2,
+        "problem_body": "设马尔科夫链{Xn,n≥0}的状态空间为S={1,2,3,4}，转移概率矩阵为[1\/2,1\/2,0,0;1,0,0,0;0,1\/3,2\/3,0;1\/2,0,1\/2,0]，下列说法错误的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "状态1是遍历态",
+                "key": "A"
+            },
+            {
+                "value": "状态2不是遍历态",
+                "key": "B"
+            },
+            {
+                "value": "状态3是非常返状态",
+                "key": "C"
+            },
+            {
+                "value": "状态4是非常返状态",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "状态2不是遍历态"
+        ]
+    },
+    {
+        "exercise_id": 4397867,
+        "leaf_id": 50262391,
+        "problem_id": 43195008,
+        "name": "5.5节 测试",
+        "problem_index": 3,
+        "problem_body": "已知五个状态(0,1,2,3,4)的齐次马氏链的转移概率矩阵为：[1\/4,3\/4,0,0,0;1\/2,1\/2,0,0,0;0,0,1,0,0;0,0,1\/3,2\/3,0;1,0,0,0,0]，下列说法错误的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "0,1为常返态",
+                "key": "A"
+            },
+            {
+                "value": "3,4为非常返态",
+                "key": "B"
+            },
+            {
+                "value": "0,1成一闭集",
+                "key": "C"
+            },
+            {
+                "value": "2为瞬时态",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "answers": [
+            "2为瞬时态"
+        ]
+    },
+    {
+        "exercise_id": 4397870,
+        "leaf_id": 50262412,
+        "problem_id": 43195040,
+        "name": "5.6节 测试",
+        "problem_index": 1,
+        "problem_body": "设有四个状态I={0,1,2,3}的马氏链，它的一步转移概率矩阵[1\/2,1\/2,0,0;1\/2,1\/2,0,0;1\/4,1\/4,1\/4,1\/4;0,0,0,1}，下列说法错误的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "状态{0,1}构成一个闭集，且它们都是正常返状态",
+                "key": "A"
+            },
+            {
+                "value": "状态{0,1,2}构成一个闭集，且它们都是非周期状态",
+                "key": "B"
+            },
+            {
+                "value": "状态{3}构成一个闭集，且它是吸收态",
+                "key": "C"
+            },
+            {
+                "value": "状态{0,1,2,3}构成一个闭集",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "状态{0,1,2}构成一个闭集，且它们都是非周期状态"
+        ]
+    },
+    {
+        "exercise_id": 4397870,
+        "leaf_id": 50262412,
+        "problem_id": 43195041,
+        "name": "5.6节 测试",
+        "problem_index": 2,
+        "problem_body": "下列说法错误的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "如果状态i是遍历态，从i出发再回到i的平均回转时间是有限的",
+                "key": "A"
+            },
+            {
+                "value": "如果状态i是非常返的，则从i出发访问i的期望次数是有限的",
+                "key": "B"
+            },
+            {
+                "value": "如果状态i是零常返的，则从i出发访问i的期望次数是有限的",
+                "key": "C"
+            },
+            {
+                "value": "如果状态i是零常返的，则从i出发再回到i的平均回转时间不是有限的",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "如果状态i是零常返的，则从i出发访问i的期望次数是有限的"
+        ]
+    },
+    {
+        "exercise_id": 4397870,
+        "leaf_id": 50262412,
+        "problem_id": 43195039,
+        "name": "5.6节 测试",
+        "problem_index": 3,
+        "problem_body": "下列说法错误的是：",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "从一个状态出发，经过步长为周期的整数倍一定能返回该状态",
+                "key": "A"
+            },
+            {
+                "value": "对有限状态的齐次马氏链，必不存在零常返态",
+                "key": "B"
+            },
+            {
+                "value": "如果齐次马氏链的一个状态是非周期、正常返的，那么此状态是遍历的",
+                "key": "C"
+            },
+            {
+                "value": "零常返只能出现在可数状态的马氏链上",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "从一个状态出发，经过步长为周期的整数倍一定能返回该状态"
+        ]
+    },
+    {
+        "exercise_id": 4397873,
+        "leaf_id": 50262429,
+        "problem_id": 43195081,
+        "name": "5.7节 测试",
+        "problem_index": 1,
+        "problem_body": "下列说法错误的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "如果状态i是遍历态，从i出发再回到i的平均回转时间是有限的",
+                "key": "A"
+            },
+            {
+                "value": "如果状态i是非常返的，则从i出发访问i的期望次数是有限的",
+                "key": "B"
+            },
+            {
+                "value": "如果状态i是零常返的，则从i出发访问i的期望次数是有限的",
+                "key": "C"
+            },
+            {
+                "value": "如果状态i是零常返的，则从i出发再回到i的平均回转时间不是有限的",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "如果状态i是零常返的，则从i出发访问i的期望次数是有限的"
+        ]
+    },
+    {
+        "exercise_id": 4397873,
+        "leaf_id": 50262429,
+        "problem_id": 43195071,
+        "name": "5.7节 测试",
+        "problem_index": 2,
+        "problem_body": "设马尔科夫链的状态i满足fii=1,μi表示从状态i出发再回到状态i的平均回转时间，若μi<∞,称i为",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "遍历状态",
+                "key": "A"
+            },
+            {
+                "value": "非常返状态",
+                "key": "B"
+            },
+            {
+                "value": "正常返状态",
+                "key": "C"
+            },
+            {
+                "value": "零常返状态",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "正常返状态"
+        ]
+    },
+    {
+        "exercise_id": 4397873,
+        "leaf_id": 50262429,
+        "problem_id": 43195076,
+        "name": "5.7节 测试",
+        "problem_index": 3,
+        "problem_body": "设马尔科夫链的状态空间为有限集，则下列说法一定正确的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "所有状态都是遍历态",
+                "key": "A"
+            },
+            {
+                "value": "所有状态都是常返态",
+                "key": "B"
+            },
+            {
+                "value": "所有状态都是非常返状态",
+                "key": "C"
+            },
+            {
+                "value": "没有零常返状态",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "answers": [
+            "没有零常返状态"
+        ]
+    },
+    {
+        "exercise_id": 4397875,
+        "leaf_id": 50262439,
+        "problem_id": 43195119,
+        "name": "5.8节 测试",
+        "problem_index": 1,
+        "problem_body": "对于二维简单对称随机游走，每一个状态都是（）",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "正常返",
+                "key": "A"
+            },
+            {
+                "value": "瞬时态",
+                "key": "B"
+            },
+            {
+                "value": "零常返",
+                "key": "C"
+            },
+            {
+                "value": "吸收态",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "零常返"
+        ]
+    },
+    {
+        "exercise_id": 4397875,
+        "leaf_id": 50262439,
+        "problem_id": 43195123,
+        "name": "5.8节 测试",
+        "problem_index": 2,
+        "problem_body": "对于三维简单对称随机游走，每一个状态都是（）",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "正常返",
+                "key": "A"
+            },
+            {
+                "value": "瞬时态",
+                "key": "B"
+            },
+            {
+                "value": "零常返",
+                "key": "C"
+            },
+            {
+                "value": "吸收态",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "瞬时态"
+        ]
+    },
+    {
+        "exercise_id": 4397875,
+        "leaf_id": 50262439,
+        "problem_id": 43195125,
+        "name": "5.8节 测试",
+        "problem_index": 3,
+        "problem_body": "以下说法正确的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "一维简单对称随机游走每一个状态都是瞬时态",
+                "key": "A"
+            },
+            {
+                "value": "一维简单非对称随机游走每一个状态都是瞬时态",
+                "key": "B"
+            },
+            {
+                "value": "二维简单对称随机游走每一个状态都是瞬时态",
+                "key": "C"
+            },
+            {
+                "value": "三维简单对称随机游走每一个状态都是常返态",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "一维简单非对称随机游走每一个状态都是瞬时态"
+        ]
+    },
+    {
+        "exercise_id": 4397877,
+        "leaf_id": 50262449,
+        "problem_id": 43195151,
+        "name": "5.9节 测试",
+        "problem_index": 1,
+        "problem_body": "设马尔可夫链的状态空间为S={1，2，3，4，5}，转移概率矩阵为P={1  0  0  0  0；0  1  0  0  0；1\/4  0  0  3\/4  0；0  0  1\/8  0  7\/8；0  1\/2  0  1\/2  0}，则下列说法正确的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "该马氏链是不可约链",
+                "key": "A"
+            },
+            {
+                "value": "状态1是吸收态",
+                "key": "B"
+            },
+            {
+                "value": "状态2是周期态",
+                "key": "C"
+            },
+            {
+                "value": "状态{2，3，4}是等价类",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "状态1是吸收态"
+        ]
+    },
+    {
+        "exercise_id": 4397877,
+        "leaf_id": 50262449,
+        "problem_id": 43195152,
+        "name": "5.9节 测试",
+        "problem_index": 2,
+        "problem_body": "由状态0，1，2，3，4组成的马尔可夫链，其转移概率矩阵为P={1\/2  1\/2  0  0  0；1\/2  1\/2  0  0  0；0  0  1\/2  1\/2  0；0  0  1\/2  1\/2  0；1\/4  1\/4  0  0  1\/2}，则下列状态分解正确的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "{0，1，4}和{2，3} ",
+                "key": "A"
+            },
+            {
+                "value": "{0，1，2，3，4}",
+                "key": "B"
+            },
+            {
+                "value": "{0，1}，{2，3}，{4}",
+                "key": "C"
+            },
+            {
+                "value": "{0，1}和{2，3，4}",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "{0，1}，{2，3}，{4}"
+        ]
+    },
+    {
+        "exercise_id": 4397877,
+        "leaf_id": 50262449,
+        "problem_id": 43195155,
+        "name": "5.9节 测试",
+        "problem_index": 3,
+        "problem_body": "由状态0，1，2，3组成的马尔可夫链有转移概率矩阵P={0  0  1\/2  1\/2；1  0  0  0；0  1  0  0；0  1  0  0}，则下列说法错误的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "状态分解为{0，1，2，3}",
+                "key": "A"
+            },
+            {
+                "value": "该马氏链是不可约马氏链",
+                "key": "B"
+            },
+            {
+                "value": "状态2是常返态",
+                "key": "C"
+            },
+            {
+                "value": "状态3是遍历态",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "answers": [
+            "状态3是遍历态"
+        ]
+    },
+    {
+        "exercise_id": 4397880,
+        "leaf_id": 50262459,
+        "problem_id": 43195182,
+        "name": "5.10节 测试",
+        "problem_index": 1,
+        "problem_body": "设马氏链状态空间是{1，2，3}，其一步转移矩阵是[1\/3,2\/3,0;1\/3,0,2\/3;0,1\/3,2\/3]，则下列说法正确的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "此链不具有遍历性",
+                "key": "A"
+            },
+            {
+                "value": "状态1的平均返回时间是7",
+                "key": "B"
+            },
+            {
+                "value": "状态2的平均返回时间是3",
+                "key": "C"
+            },
+            {
+                "value": "状态3的平均返回时间是4\/7",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "状态1的平均返回时间是7"
+        ]
+    },
+    {
+        "exercise_id": 4397880,
+        "leaf_id": 50262459,
+        "problem_id": 43195185,
+        "name": "5.10节 测试",
+        "problem_index": 2,
+        "problem_body": "设有6个球（两个红4个白）分别放于甲乙两个盒子中，每个盒子放3个，令每次从两个盒子中任取一球进行并交换，令X_0表示开始时甲盒子中红球个数，X_n（n>=1）表示经过n次交换后甲盒子中红球的个数，令p_j(n)表示n次交换后甲盒子中红球个数为j的概率，j=0，1，2，则以下说法正确的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "p_j(n)极限不存在",
+                "key": "A"
+            },
+            {
+                "value": "n趋于无穷时，p_0(n)极限为1\/5",
+                "key": "B"
+            },
+            {
+                "value": "n趋于无穷时，p_1(n)极限为1\/5",
+                "key": "C"
+            },
+            {
+                "value": "n趋于无穷时，p_2(n)极限为3\/5",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "n趋于无穷时，p_0(n)极限为1\/5"
+        ]
+    },
+    {
+        "exercise_id": 4397880,
+        "leaf_id": 50262459,
+        "problem_id": 43195188,
+        "name": "5.10节 测试",
+        "problem_index": 3,
+        "problem_body": "下列说法错误的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "value": "状态i和状态j互通则他们的周期性相同",
+                "key": "A"
+            },
+            {
+                "value": "如果状态是常返非周期则称为遍历态",
+                "key": "B"
+            },
+            {
+                "value": "遍历链的所有的状态一定都是遍历的",
+                "key": "C"
+            },
+            {
+                "value": "对于不可约马氏链如果P_ii>0,则此马氏链是非周期链",
+                "key": "D"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "如果状态是常返非周期则称为遍历态"
+        ]
+    },
+    {
+        "exercise_id": 4397883,
+        "leaf_id": 50262469,
+        "problem_id": 43195204,
+        "name": "5.11节 测试",
+        "problem_index": 1,
+        "problem_body": "设马尔可夫链{Xn,n≥0}的状态空间为S={1，2，3…},转移概率为p1,1=1\/2,pi,i+1=1\/2,pi,1=1\/2,i∈S,则其平稳分布为",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "π={πi=1\/2,i∈S}"
+            },
+            {
+                "key": "B",
+                "value": " π={πi=1\/2^i,i∈S}"
+            },
+            {
+                "key": "C",
+                "value": "π={πi=1\/2^(i+1),i∈S}"
+            },
+            {
+                "key": "D",
+                "value": "π={πi=1\/2^(i-1),i∈S}"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            " π={πi=1\/2^i,i∈S}"
+        ]
+    },
+    {
+        "exercise_id": 4397883,
+        "leaf_id": 50262469,
+        "problem_id": 43195205,
+        "name": "5.11节 测试",
+        "problem_index": 2,
+        "problem_body": "设河流每天的BOD（生物氧化量）浓度为时齐马尔可夫链，状态空间S={1,2,3,4}是按BOD浓度为极低，低，中，高分别表示的，其一步转移概率矩阵（以一天为单位）为P=(0.5  0.4  0.1  0;  0.2  0.5  0.2  0.1;  0.1  0.2  0.6  0.1;  0  0.2  0.4  0.4),求河流再次到达污染的平均时间μ4",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "273\/31"
+            },
+            {
+                "key": "B",
+                "value": "273\/92"
+            },
+            {
+                "key": "C",
+                "value": "273\/94"
+            },
+            {
+                "key": "D",
+                "value": "273\/56"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "273\/31"
+        ]
+    },
+    {
+        "exercise_id": 4397883,
+        "leaf_id": 50262469,
+        "problem_id": 43195209,
+        "name": "5.11节 测试",
+        "problem_index": 3,
+        "problem_body": "设某厂的商品的销售状态（按一个月计）可分为三个状态：滞销（1），正常（2），畅销（3）。若经过对历史资料的整理分析，其销售状态的变化（从这个月到下个月）与初始时刻无关，且其状态转移概率为pij(pij表示从销售状态i经过一个月后转为销售状态j的概率)，一步转移概率矩阵为P=(1\/2  1\/2  0 ; 1\/3  1\/9  5\/9 ; 1\/6  2\/3  1\/6),则其极限情况下，状态为正常的概率为",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "8\/23"
+            },
+            {
+                "key": "B",
+                "value": "9\/23"
+            },
+            {
+                "key": "C",
+                "value": "6\/23"
+            },
+            {
+                "key": "D",
+                "value": "7\/23"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "9\/23"
+        ]
+    },
+    {
+        "exercise_id": 4397886,
+        "leaf_id": 50262482,
+        "problem_id": 43195229,
+        "name": "5.12节 测试",
+        "problem_index": 1,
+        "problem_body": "若p_0=1\/2，p_1=1\/4，p_2=1\/4，确定π_0.",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "π_0=0"
+            },
+            {
+                "key": "B",
+                "value": "π_0=1\/2"
+            },
+            {
+                "key": "C",
+                "value": "π_0=1"
+            },
+            {
+                "key": "D",
+                "value": "π_0=1\/4"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "π_0=1"
+        ]
+    },
+    {
+        "exercise_id": 4397886,
+        "leaf_id": 50262482,
+        "problem_id": 43195234,
+        "name": "5.12节 测试",
+        "problem_index": 2,
+        "problem_body": "若p_0=1\/4，p_1=1\/4，p_2=1\/2，确定π_0.",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "π_0=1\/2"
+            },
+            {
+                "key": "B",
+                "value": "π_0=1"
+            },
+            {
+                "key": "C",
+                "value": "π_0=1\/4"
+            },
+            {
+                "key": "D",
+                "value": "π_0=0"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "π_0=1\/2"
+        ]
+    },
+    {
+        "exercise_id": 4397886,
+        "leaf_id": 50262482,
+        "problem_id": 43195237,
+        "name": "5.12节 测试",
+        "problem_index": 3,
+        "problem_body": "在题1和题2中，如果初始时由n个个体组成，总体灭绝的概率是多少？",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "(1\/2)^n，1"
+            },
+            {
+                "key": "B",
+                "value": "1，(1\/2)^n"
+            },
+            {
+                "key": "C",
+                "value": "n，(1\/2)^n"
+            },
+            {
+                "key": "D",
+                "value": "1，1\/2"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "1，(1\/2)^n"
+        ]
+    },
+    {
+        "exercise_id": 4397888,
+        "leaf_id": 50262492,
+        "problem_id": 43195276,
+        "name": "6.1节 测试",
+        "problem_index": 1,
+        "problem_body": "下列关于连续时间马尔可夫链的定义说法正确的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "逗留时间不具有无记忆性"
+            },
+            {
+                "key": "B",
+                "value": "状态空间是连续的"
+            },
+            {
+                "key": "C",
+                "value": "时间上是连续的"
+            },
+            {
+                "key": "D",
+                "value": "与离散时间马尔可夫链的区别在于其状态空间不是离散的"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "时间上是连续的"
+        ]
+    },
+    {
+        "exercise_id": 4397888,
+        "leaf_id": 50262492,
+        "problem_id": 43195278,
+        "name": "6.1节 测试",
+        "problem_index": 2,
+        "problem_body": "下列连续马尔可夫链的平稳分布必定存在的是",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "具有标准的转移概率"
+            },
+            {
+                "key": "B",
+                "value": "不可约的齐次的正常返的马氏链"
+            },
+            {
+                "key": "C",
+                "value": "正常返马氏链"
+            },
+            {
+                "key": "D",
+                "value": "可约的齐次马氏链"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "不可约的齐次的正常返的马氏链"
+        ]
+    },
+    {
+        "exercise_id": 4397888,
+        "leaf_id": 50262492,
+        "problem_id": 43195282,
+        "name": "6.1节 测试",
+        "problem_index": 3,
+        "problem_body": "一个连续时间的马氏链E={0，1，2}，其状态强度转移矩阵为Q=(-1  1  0;  2  -3  1;  0  1  -1),则其平稳分布为",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "π0=1\/2，π1=π2=1\/4"
+            },
+            {
+                "key": "B",
+                "value": "π0=π1=π2=1\/3"
+            },
+            {
+                "key": "C",
+                "value": "π0=1\/4，π1=1\/3，π3=5\/12"
+            },
+            {
+                "key": "D",
+                "value": "π0=1\/2 ，π1=1\/3，π2=1\/6"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "π0=1\/2，π1=π2=1\/4"
+        ]
+    },
+    {
+        "exercise_id": 4397891,
+        "leaf_id": 50262502,
+        "problem_id": 43195307,
+        "name": "6.2节 测试",
+        "problem_index": 1,
+        "problem_body": "设马尔可夫链的转移矩阵为P=(1\/2  1\/2  0 ; 1\/2  0  1\/2 ; 0  1\/2  1\/2),则0时刻从状态2出发在很久的时间之后马尔可夫链处于状态1的概率为",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "1\/6"
+            },
+            {
+                "key": "B",
+                "value": "1\/3"
+            },
+            {
+                "key": "C",
+                "value": "1\/4"
+            },
+            {
+                "key": "D",
+                "value": "1\/2"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "1\/3"
+        ]
+    },
+    {
+        "exercise_id": 4397891,
+        "leaf_id": 50262502,
+        "problem_id": 43195311,
+        "name": "6.2节 测试",
+        "problem_index": 2,
+        "problem_body": "设有六个车站，汽车每天可以从一个站驶向与之相邻的车站，并且在夜晚到达车站留宿，次日凌晨重复相同的活动。以{Xn, n=0,1,2…}记第n天某辆汽车留宿的车站号。这是一个马尔可夫链，转移概率矩阵为P=(0  1\/2  0  0  0  1\/2 ; 1\/3  0  1\/3  0  0  1\/3 ; 0  1\/2  0  1\/2  0  0 ; 0  0  1\/3  0  1\/3  1\/3 ; 0  0  0  1\/2  0  1\/2 ; 1\/4  1\/4  0  1\/4  1\/4  0),则很长时间后，在4车站留宿的汽车比例",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "1\/8"
+            },
+            {
+                "key": "B",
+                "value": "1\/4"
+            },
+            {
+                "key": "C",
+                "value": "3\/16"
+            },
+            {
+                "key": "D",
+                "value": "5\/16"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "3\/16"
+        ]
+    },
+    {
+        "exercise_id": 4397891,
+        "leaf_id": 50262502,
+        "problem_id": 43195315,
+        "name": "6.2节 测试",
+        "problem_index": 3,
+        "problem_body": "一个机器可能处于两个状态0和1，0状态代表机器故障，1状态代表机器运行良好，在遇到机器故障之前，机器运行良好的停留时间为1\/3的指数分布，在出现故障之后，维修到运行良好的时间为速率为1\/2的指数分布，已知t=0时机器运行良好，则t等于1时仍然运行良好的概率为",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "3\/5+2exp{-5\/6}\/5"
+            },
+            {
+                "key": "B",
+                "value": "1\/5+4exp{-5\/6}\/5"
+            },
+            {
+                "key": "C",
+                "value": "2\/5+3exp{-5\/6}\/5"
+            },
+            {
+                "key": "D",
+                "value": "4\/5+exp{-5\/6}\/5"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "3\/5+2exp{-5\/6}\/5"
+        ]
+    },
+    {
+        "exercise_id": 4397893,
+        "leaf_id": 50262511,
+        "problem_id": 43195340,
+        "name": "6.3节 测试",
+        "problem_index": 1,
+        "problem_body": "<div class=\"custom_ueditor_cn_body\"><p>设马氏链时刻t处于状态i，当Δt&gt;0很小时，过程在t+Δt仍逗留在i的概率是多少？<\/p><\/div>",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "<div class=\"custom_ueditor_cn_body\"><p>1-v_i Δt+o(Δt)<\/p><\/div>"
+            },
+            {
+                "key": "B",
+                "value": "<div class=\"custom_ueditor_cn_body\"><p>1+v_i Δt<\/p><\/div>"
+            },
+            {
+                "key": "C",
+                "value": "<div class=\"custom_ueditor_cn_body\"><p>v_i Δt<\/p><\/div>"
+            },
+            {
+                "key": "D",
+                "value": "<div class=\"custom_ueditor_cn_body\"><p>v_i Δt+o(Δt)<\/p><\/div>"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "<div class=\"custom_ueditor_cn_body\"><p>1-v_i Δt+o(Δt)<\/p><\/div>"
+        ]
+    },
+    {
+        "exercise_id": 4397893,
+        "leaf_id": 50262511,
+        "problem_id": 43195341,
+        "name": "6.3节 测试",
+        "problem_index": 2,
+        "problem_body": "当P_i,i+1=1，v_i=i^2，i属于E，此连续时间马尔科夫链具有什么性质？",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "非正规性"
+            },
+            {
+                "key": "B",
+                "value": "正规性"
+            },
+            {
+                "key": "C",
+                "value": "非正则性"
+            },
+            {
+                "key": "D",
+                "value": "正则性"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "非正则性"
+        ]
+    },
+    {
+        "exercise_id": 4397893,
+        "leaf_id": 50262511,
+        "problem_id": 43195342,
+        "name": "6.3节 测试",
+        "problem_index": 3,
+        "problem_body": "强度为λ的齐次泊松过程{N(t), t>=0}的Q矩阵是？",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "[λ,0,…,0; 0,-λ,0,…,0; 0,0,λ,0,…,0; … ]"
+            },
+            {
+                "key": "B",
+                "value": "[λ,0,…,0; 0,λ,0,…,0; 0,0,λ,0,…,0; … ]"
+            },
+            {
+                "key": "C",
+                "value": "[-λ,0,…,0; 0,-λ,0,…,0; 0,0,-λ,0,…,0; … ]"
+            },
+            {
+                "key": "D",
+                "value": "[-λ,λ,0,…,0; 0,-λ,λ,0,…,0; 0,0,-λ,λ,0,…,0; …]"
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "answers": [
+            "[-λ,λ,0,…,0; 0,-λ,λ,0,…,0; 0,0,-λ,λ,0,…,0; …]"
+        ]
+    },
+    {
+        "exercise_id": 4397894,
+        "leaf_id": 50262519,
+        "problem_id": 43195345,
+        "name": "6.4节 测试",
+        "problem_index": 1,
+        "problem_body": "对于连续时间马尔科夫链，若过程离开状态i的速率v_i>0，在状态i上停留的时间τ_i的数学期望小于无穷，则状态i为什么态？",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "常返态"
+            },
+            {
+                "key": "B",
+                "value": "瞬时态"
+            },
+            {
+                "key": "C",
+                "value": "吸收态"
+            },
+            {
+                "key": "D",
+                "value": "逗留态"
+            }
+        ],
+        "answer": [
+            "D"
+        ],
+        "answers": [
+            "逗留态"
+        ]
+    },
+    {
+        "exercise_id": 4397894,
+        "leaf_id": 50262519,
+        "problem_id": 43195343,
+        "name": "6.4节 测试",
+        "problem_index": 2,
+        "problem_body": "若P_ii(t)的积分为正无穷，这状态i为什么态？",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "常返态"
+            },
+            {
+                "key": "B",
+                "value": "非常返态"
+            },
+            {
+                "key": "C",
+                "value": "正常返态"
+            },
+            {
+                "key": "D",
+                "value": "零常返态"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "常返态"
+        ]
+    },
+    {
+        "exercise_id": 4397894,
+        "leaf_id": 50262519,
+        "problem_id": 43195344,
+        "name": "6.4节 测试",
+        "problem_index": 3,
+        "problem_body": "连续时间马尔科夫链的有限维分布族由π(0)和P(t)决定，则对于任意t>=0，有π(t)=?",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "π(0)"
+            },
+            {
+                "key": "B",
+                "value": "π(0) P(t)"
+            },
+            {
+                "key": "C",
+                "value": "P(t)"
+            },
+            {
+                "key": "D",
+                "value": "π(0) P(0)"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "π(0) P(t)"
+        ]
+    },
+    {
+        "exercise_id": 4397895,
+        "leaf_id": 50262527,
+        "problem_id": 43195346,
+        "name": "6.5节 测试",
+        "problem_index": 1,
+        "problem_body": "以下命题正确的是？",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "状态空间E有限→P'(t)=P(t)"
+            },
+            {
+                "key": "B",
+                "value": "状态空间E有限→P'(t)=Q"
+            },
+            {
+                "key": "C",
+                "value": "状态空间E有限→P'(t)=QP(t)"
+            },
+            {
+                "key": "D",
+                "value": "状态空间E有限→P'(t)>QP(t)"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "状态空间E有限→P'(t)=QP(t)"
+        ]
+    },
+    {
+        "exercise_id": 4397895,
+        "leaf_id": 50262527,
+        "problem_id": 43195347,
+        "name": "6.5节 测试",
+        "problem_index": 2,
+        "problem_body": "以下是Kolmogorov向前方程组的是？",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "P_ij'(t)=∑_k≠j P_ik(t) q_kj - v_j P_ij(t)"
+            },
+            {
+                "key": "B",
+                "value": "P_ij'(t)=∑_k≠j P_ik(t) q_kj"
+            },
+            {
+                "key": "C",
+                "value": "P_ij'(t)=∑_k≠i q_ik P_kj(t)"
+            },
+            {
+                "key": "D",
+                "value": "P_ij'(t)=∑_k≠i q_ik P_kj(t) - v_i P_ij(t)"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "P_ij'(t)=∑_k≠j P_ik(t) q_kj - v_j P_ij(t)"
+        ]
+    },
+    {
+        "exercise_id": 4397895,
+        "leaf_id": 50262527,
+        "problem_id": 43195348,
+        "name": "6.5节 测试",
+        "problem_index": 3,
+        "problem_body": "以下命题正确的是？",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "状态空间E可数，Q保守→P'(t)>QP(t)"
+            },
+            {
+                "key": "B",
+                "value": "状态空间E可数，Q保守→P'(t)=QP(t)"
+            },
+            {
+                "key": "C",
+                "value": "状态空间E可数，Q保守→P'(t)<QP(t)"
+            },
+            {
+                "key": "D",
+                "value": "状态空间E可数，Q保守→P'(t)=P(t)Q"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "状态空间E可数，Q保守→P'(t)=QP(t)"
+        ]
+    },
+    {
+        "exercise_id": 4397896,
+        "leaf_id": 50262535,
+        "problem_id": 43195349,
+        "name": "6.6节 测试",
+        "problem_index": 1,
+        "problem_body": "设{Z_n，n>=1}是连续时间马尔科夫链{X(t)，t>=0}的嵌入链，若不可约正常返，则对于任意的j属于E，P_j是多少?",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "∏_j"
+            },
+            {
+                "key": "B",
+                "value": "∏"
+            },
+            {
+                "key": "C",
+                "value": "P_ij"
+            },
+            {
+                "key": "D",
+                "value": "1"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "∏_j"
+        ]
+    },
+    {
+        "exercise_id": 4397896,
+        "leaf_id": 50262535,
+        "problem_id": 43195350,
+        "name": "6.6节 测试",
+        "problem_index": 2,
+        "problem_body": "当状态空间E有限时，π’(t)=?",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "π(t)Q"
+            },
+            {
+                "key": "B",
+                "value": "Q"
+            },
+            {
+                "key": "C",
+                "value": "π(t)"
+            },
+            {
+                "key": "D",
+                "value": "P_ij"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "π(t)Q"
+        ]
+    },
+    {
+        "exercise_id": 4397896,
+        "leaf_id": 50262535,
+        "problem_id": 43195351,
+        "name": "6.6节 测试",
+        "problem_index": 3,
+        "problem_body": "不可约连续马尔科夫链，状态空间E有限时，设嵌入链的平稳分布为∏, 则极限分布π_j^*=?",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "∏_j \/v_j \/(∑∏_i \/v_i)"
+            },
+            {
+                "key": "B",
+                "value": "∏_j \/v_j "
+            },
+            {
+                "key": "C",
+                "value": "∏_j \/(∑∏_i \/v_i)"
+            },
+            {
+                "key": "D",
+                "value": "∏_j \/v_j \/(∑∏_i)"
+            }
+        ],
+        "answer": [
+            "A"
+        ],
+        "answers": [
+            "∏_j \/v_j \/(∑∏_i \/v_i)"
+        ]
+    },
+    {
+        "exercise_id": 4397897,
+        "leaf_id": 50262543,
+        "problem_id": 43195352,
+        "name": "6.7节 测试",
+        "problem_index": 1,
+        "problem_body": "考虑从单个个体开始的Yule过程，记T_i为群体从i增加到i+1所需要的时间，则易得T_i(i>=1)相互独立，且是速率为iλ的指数分布，则Yule过程的转移概率是P_1j(t)多少？",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "(1-e^(-λt))^(j-1)"
+            },
+            {
+                "key": "B",
+                "value": "e^(-λt)(1-e^(-λt))^(j-1)"
+            },
+            {
+                "key": "C",
+                "value": "e^(-λt)"
+            },
+            {
+                "key": "D",
+                "value": "e^(-λt)(1-e^(-λt))"
+            }
+        ],
+        "answer": [
+            "B"
+        ],
+        "answers": [
+            "e^(-λt)(1-e^(-λt))^(j-1)"
+        ]
+    },
+    {
+        "exercise_id": 4397897,
+        "leaf_id": 50262543,
+        "problem_id": 43195353,
+        "name": "6.7节 测试",
+        "problem_index": 2,
+        "problem_body": "题1中，Yule过程的转移概率是P_ij(t)多少？",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "C_j-1^i-1  (1-e^(-λt))^(j-i)"
+            },
+            {
+                "key": "B",
+                "value": "C_j-1^i-1 (e^(-λt))^i "
+            },
+            {
+                "key": "C",
+                "value": "C_j-1^i-1 (e^(-λt))^i (1-e^(-λt))^(j-i)"
+            },
+            {
+                "key": "D",
+                "value": "(e^(-λt))^i (1-e^(-λt))^(j-i)"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "C_j-1^i-1 (e^(-λt))^i (1-e^(-λt))^(j-i)"
+        ]
+    },
+    {
+        "exercise_id": 4397897,
+        "leaf_id": 50262543,
+        "problem_id": 43195354,
+        "name": "6.7节 测试",
+        "problem_index": 3,
+        "problem_body": "考虑一个X(0)=1的Yule过程，设在时刻t年龄的和为A(t)，计算在时刻t群体成员的年龄的期望和.",
+        "problem_type": "单选题",
+        "problem_options": [
+            {
+                "key": "A",
+                "value": "a_0"
+            },
+            {
+                "key": "B",
+                "value": "(e^(-λt)-1)\/λ"
+            },
+            {
+                "key": "C",
+                "value": "a_0+(e^(-λt)-1)\/λ"
+            },
+            {
+                "key": "D",
+                "value": "a_0+e^(-λt)-1"
+            }
+        ],
+        "answer": [
+            "C"
+        ],
+        "answers": [
+            "a_0+(e^(-λt)-1)\/λ"
         ]
     }
 ]

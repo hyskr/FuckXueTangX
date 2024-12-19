@@ -47,3 +47,5 @@ htmlcov/
 *.log
 *.sqlite3
 cookies.json
+results_with_run.json
+chapter.json
