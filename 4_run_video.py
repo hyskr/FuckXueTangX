@@ -222,4 +222,3 @@ if __name__ == "__main__":
 
     for video in videos:
         player.play_video(video)
-        exit()

@@ -80,7 +80,7 @@ class ExerciseSubmitter:
         }
 
         result = self._make_request("POST", url, payload)
-        print(result.json())
+        print(result)
         if result.get("error_code") == "80001":
             return True
         return result.get("data", {}).get("is_correct", False)
@@ -142,7 +142,7 @@ class ExerciseSubmitter:
 
 
 def main():
-    config = ExerciseConfig(sign="bjtu07121003092", classroom_id=21558295)
+    config = ExerciseConfig(sign="bjtu07101004723", classroom_id=21560530)
 
     submitter = ExerciseSubmitter(config)
     submitter.process_exercises("results_with_run.json")

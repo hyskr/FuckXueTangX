@@ -4,8 +4,8 @@ import requests
 
 from login import LoginSession
 
-sign = "bjtu07121003092"
-classroom_id = 21558295
+sign = "bjtu07101004723"
+classroom_id = 21560530
 
 session = LoginSession()
 csrf_token, session_id = session.run()

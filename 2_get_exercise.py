@@ -1,4 +1,5 @@
 import json
+import time
 from dataclasses import dataclass
 from typing import Any, Dict, List, Optional, Tuple
 
@@ -67,7 +68,7 @@ class ExerciseCollector:
         except RequestException as e:
             if retry < self.config.retry_times:
                 return self._make_request(method, url, data, retry + 1)
-            raise Exception(f"请求失败: {str(e)}")
+            raise Exception(f"请求失败: {str(e)} {response.text}")
 
     def get_exercises_from_chapter(self, chapter_file: str) -> List[Tuple[str, int]]:
         with open(chapter_file, "r") as f:
@@ -76,9 +77,12 @@ class ExerciseCollector:
         exercises = []
         for chapter in chapter_data["data"]["course_chapter"]:
             for lessons in chapter["section_leaf_list"]:
-                for lesson in lessons.get("leaf_list", []):
-                    if lesson.get("leaf_type") == 6:
-                        exercises.append((lesson["name"], lesson["id"]))
+                if lessons.get("leaf_type", None) == 6:
+                    exercises.append((lessons["name"], lessons["id"]))
+                else:
+                    for lesson in lessons.get("leaf_list", []):
+                        if lesson.get("leaf_type") == 6:
+                            exercises.append((lesson["name"], lesson["id"]))
         return exercises
 
     def get_exercise_leaf_type_id(self, exercise_id: int) -> Optional[int]:
@@ -86,8 +90,13 @@ class ExerciseCollector:
         response = self._make_request("GET", url)
         return response.get("data", {}).get("content_info", {}).get("leaf_type_id")
 
-    def get_exercise_content(self, leaf_type_id: int) -> List[Dict]:
-        url = f"{self.config.base_url}/api/v1/lms/exercise/get_exercise_list/{leaf_type_id}/10605589/"
+    def get_sku_id(self, exercise_id: int) -> Optional[str]:
+        url = f"{self.config.base_url}/api/v1/lms/learn/leaf_info/{self.config.classroom_id}/{exercise_id}/?sign={self.config.sign}"
+        result = self._make_request("GET", url)
+        return result.get("data", {}).get("sku_id")
+
+    def get_exercise_content(self, leaf_type_id: int, sku_id: int) -> List[Dict]:
+        url = f"{self.config.base_url}/api/v1/lms/exercise/get_exercise_list/{leaf_type_id}/{sku_id}/"
         response = self._make_request("GET", url)
         return response.get("data", {}).get("problems", [])
 
@@ -121,10 +130,13 @@ class ExerciseCollector:
             exercise_id = self.get_exercise_leaf_type_id(leaf_id)
             if not exercise_id:
                 raise Exception(f"无法获取习题ID: {leaf_id}")
-
-            content = self.get_exercise_content(exercise_id)
+            sku_id = self.get_sku_id(leaf_id)
+            if not sku_id:
+                raise Exception(f"无法获取sku_id: {leaf_id}")
+            content = self.get_exercise_content(exercise_id, sku_id)
             for question in content:
                 self._process_question(question, exercise_id, leaf_id, name)
+                time.sleep(3)
 
         except Exception as e:
             print(f"处理习题失败 {name}: {str(e)}")
@@ -169,15 +181,13 @@ class ExerciseCollector:
 
     def run(self, chapter_file: str, output_file: str) -> None:
         exercises = self.get_exercises_from_chapter(chapter_file)
-
         for name, leaf_id in exercises:
             self.process_exercise(name, leaf_id)
             self.results.to_json(output_file, orient="records", force_ascii=False)
 
 
 def main():
-    config = ExerciseConfig(sign="bjtu07121003092", classroom_id=21558295)
-
+    config = ExerciseConfig(sign="bjtu07101004723", classroom_id=21560530)
     collector = ExerciseCollector(config)
     collector.run("chapter.json", "results_with_run.json")
 
